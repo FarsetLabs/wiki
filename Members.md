@@ -117,7 +117,7 @@ panLoaf
 
 glenn at blitter.co.uk
 
-.Net, Java, Regex, HTML/CSS, App design, Web Services, Dealing with management, Events/PR. Good with a drill. The simplest way to receive high quality essay papers is to come to the greatest [essay writing services](http://essaysprofessors.com). I really know that some academic writing organizations provide reasonable prices.
+.Net, Java, Regex, HTML/CSS, App design, Web Services, Dealing with management, Events/PR. Good with a drill.
 
 Haydania-Capri DiTori
 
