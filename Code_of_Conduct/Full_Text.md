@@ -3,7 +3,7 @@ Changes to the Code as per 16/02/13
 
 The Town Hall meeting on the 16th of February ratified the following changes to the Code of Conduct for Members. These changes will be adopted on 16/04/13 as part of the Code unless it is requested it is reviewed and changed.
 
-These changes were ratified by the attending members, with the following outcome from the vote: AYE \*\*7\*\* NOE \*\*0\*\* ABS \*\*0\*\*
+These changes were ratified by the attending members, with the following outcome from the vote: AYE **7** NOE **0** ABS **0**
 
 ### Proposed Changes
 
@@ -47,7 +47,7 @@ Change in wording: 1 “Certain situations will allow normally disallowed materi
 
 2 Covering use of VPN and Internet services “Services offered by Evorack, Tibus and other providers is subject to usage restrictions in line with UK laws governing their usage and an additional, reviewable document set about by the providers and Farset Labs in turn.”
 
--   -   Changes end.\*\*
+-   -   Changes end.**
 
 Code of Conduct for Members
 ---------------------------

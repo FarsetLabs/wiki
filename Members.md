@@ -53,7 +53,7 @@ For the sake of your inbox, obfuscate your email addy .. :)
 |Matt Hazley|||||
 |Matt Milford|||||
 |Matt Rutherford|bt9|matrutherford at g|<http://aleatory.clientsideweb.net/> <https://github.com/rutherford>|Frequently seeks help in python. Wants to improve lower level knowledge. Web apps.|
-|Michael Allen|Michael|michaeldfallen [at] gmail [dot] com, michael [at] appzappy [dot] co [dot] uk|<http://appzappy.co.uk>, <http://twitter.com/michaeldfallen>, <https://www.facebook.com/michaeldfallen>|Programming: C\#, Java, JQuery, Android, Scala, Regex... ; 3D modelling: 3DS Max, Blender; Photography; Photo Editing and general Photoshoppery; Web and UI design;|
+|Michael Allen|Michael|michaeldfallen [at] gmail [dot] com, michael [at] appzappy [dot] co [dot] uk|<http://appzappy.co.uk>, <http://twitter.com/michaeldfallen>, <https://www.facebook.com/michaeldfallen>|Programming: C#, Java, JQuery, Android, Scala, Regex... ; 3D modelling: 3DS Max, Blender; Photography; Photo Editing and general Photoshoppery; Web and UI design;|
 |Mischa Græ|Mischa Gadhra de Brún, Infotoxin|mischa at infotox.in|<http://infotox.in> <http://ayaw.org>|Music Production, VJing|
 |Molly Case|||||
 |Nathan Carver|||||

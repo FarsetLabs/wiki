@@ -29,6 +29,6 @@ Please feel free to use the printer for small and large print jobs, but please c
 The Event Space
 ===============
 
-![The First Gathering of Lightning event, Jul '12](Eventspace_GoL1.jpeg‎ "fig:The First Gathering of Lightning event, Jul '12") The event space is the main venue in Farset Labs, constituting approximately 800sqft of open plan space, not to mention the giant \(30m^2\) blackboard wall.
+![The First Gathering of Lightning event, Jul '12](Eventspace_GoL1.jpeg‎ "fig:The First Gathering of Lightning event, Jul '12") The event space is the main venue in Farset Labs, constituting approximately 800sqft of open plan space, not to mention the giant (30m^2) blackboard wall.
 
 The Event space is bookable by outside entities. Contact events@farsetlabs.org.uk if you wish to enquire.

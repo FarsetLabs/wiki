@@ -15,7 +15,7 @@ VLANs
 
 In accordance with best security practises, the network in Unit 1 is segmented into separate VLANs, that have restricted access to/from each other and the Internet.
 
-Glossary: Inbound means traffic originating \*from elsewhere to VLAN in question\*. Outbound means traffic originating \*from VLAN in question to elsewhere\*.
+Glossary: Inbound means traffic originating *from elsewhere to VLAN in question*. Outbound means traffic originating *from VLAN in question to elsewhere*.
 
 Guest - Outbound TCP ports 80 and 443 to Internet only. No inbound access. Connected to Farset-Guest WiFi
 Members - Outbound to Internet, VOIP, Evorack Free VPSs and CCTV allowed. No inbound access. Connected to Farset-Members WiFi

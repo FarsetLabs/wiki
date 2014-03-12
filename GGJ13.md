@@ -77,7 +77,7 @@ They'll be live-streamed to the space and the lounge.
 Prizes
 ======
 
-[GitHub](http://www.github.com/) are giving \$70 of GH Credit to every location across the world as a prize to be given at the organizers disgression. We'll be doing it as fairly as we know how; Tallymarks on the Blackboard at the end of the final presentations.
+[GitHub](http://www.github.com/) are giving $70 of GH Credit to every location across the world as a prize to be given at the organizers disgression. We'll be doing it as fairly as we know how; Tallymarks on the Blackboard at the end of the final presentations.
 
 What Should I Bring
 ===================
@@ -89,7 +89,7 @@ What Should I Bring
 -   Cushion (You'd be surprised how you might need it; [we can't afford 40 of these yet...](http://www.back2.co.uk/Ergonomic-Chairs/Herman-Miller-Chairs/Herman-Miller-Aeron-Chair-p288.html?gclid=CIjVh97R97QCFcw72wodnlUAKQ))
 -   Power Strip
 -   Notepads (We'll have some scribble boards but bring some just to be sure)
--   Money! The event isn't \*fully\* catered so we'll be supplying as much food as we can afford and some drinks, and as always, we love a wee donation!
+-   Money! The event isn't *fully* catered so we'll be supplying as much food as we can afford and some drinks, and as always, we love a wee donation!
 -   BYO Drinks, unless you're happy with 1 beer for the full weekend!
 -   (if you plan on staying overnight) Deoderant / Washbag / Change of Clothes / Sleeping bag
     -   Also, while there ARE shower facilities in the business park, I wouldn't recommend them; just go home and shower.
@@ -123,7 +123,7 @@ Suggested Reading
     -   [The Final Countdown](http://www.convictinteractive.com/?p=297)
 -   [Mixamo Character Design Tech-Talk](http://www.youtube.com/watch?v=VV4zMBA32B8)
 -   [Chris Taylor game design template](http://www.runawaystudios.com/articles/chris_taylor_gdd.asp)
--   [<http://www.gamasutra.com/view/news/26577/Opinion_Indie_Game_Design_Dos_and_Donts_A_Manifesto.php>\#.UOrVVtGYPdn Gamasutra «Opinion: Indie Game Design Do-s and Don't-s: A Manifesto»]
+-   [<http://www.gamasutra.com/view/news/26577/Opinion_Indie_Game_Design_Dos_and_Donts_A_Manifesto.php>#.UOrVVtGYPdn Gamasutra «Opinion: Indie Game Design Do-s and Don't-s: A Manifesto»]
 -   [The Guardian «Five key lessons for every young game developer»](http://www.guardian.co.uk/technology/gamesblog/2012/jul/04/five-lessons-for-game-developers?CMP=twt_gu)
 
 Assets and Resources
@@ -170,7 +170,7 @@ Communications
 -   [Participant G+ Community](https://plus.google.com/communities/109768589919486640492)
 -   [FB Page](https://www.facebook.com/GlobalGameJam)
 -   [G+ Page](https://plus.google.com/+globalgamejam/posts)
--   [\#GGJ13 Freenode on IRC](irc://irc.freenode.net/ggj13)
+-   [#GGJ13 Freenode on IRC](irc://irc.freenode.net/ggj13)
 
 Media
 -----

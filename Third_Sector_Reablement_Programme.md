@@ -3,7 +3,7 @@ In May 2013, Farset Labs, UUJ, and a network of Community and Voluntary Care sta
 Ideation
 ========
 
-\~May 20th 2013: 9:30-13:30; Farset Labs
+~May 20th 2013: 9:30-13:30; Farset Labs
 
 Introduction
 ------------
@@ -35,7 +35,7 @@ Take-aways
 Technical Appraisal
 ===================
 
-\~Proposed for End of July 2013
+~Proposed for End of July 2013
 
 Introduction
 ------------

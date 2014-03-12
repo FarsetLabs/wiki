@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_ \_\_NOEDITSECTION\_\_
+__NOTOC__ __NOEDITSECTION__
 
 |---|
 |<center>
@@ -23,7 +23,7 @@ Get in touch
 Farset Labs has an ever-growing web presence for different facilities. Below are the most commonly used services:
 
 -   [Blog](http://farsetlabs.org.uk/blog/)
--   [<https://twitter.com/>\#!/FarsetLabs Twitter]
+-   [<https://twitter.com/>#!/FarsetLabs Twitter]
 -   [Facebook](https://www.facebook.com/FarsetLabs)
 -   [Discourse Community Forum](http://discourse.farsetlabs.org.uk)
 -   [Subreddit](http://www.reddit.com/r/farsetlabs)

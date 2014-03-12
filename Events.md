@@ -1,5 +1,5 @@
 <div style="float:right; clear:both; margin-left:0.5em;">
-<googleagenda>farsetlabs.org.uk\_srmqnkn373auq51u00s2nijrq8@group.calendar.google.com</googleagenda>
+<googleagenda>farsetlabs.org.uk_srmqnkn373auq51u00s2nijrq8@group.calendar.google.com</googleagenda>
 
 </div>
 Events in Farset Labs usually take place in the [Event Space](Event Space "wikilink"), with exceptions for very large or very small ones. Members, companies and the general public can book an event (see below) in most parts of Farset Labs.

@@ -1,4 +1,4 @@
-Open Data is the big buzzword of our day. And with connected health and data visualisation being similar scale buzzwords, we thought it’d be good to have a series of nice relaxed ‘Open Data Playground’ events, where web devs, graphic designers, \*QL sorcerers, and Data mining enthusiasts can hang out and play with bits.
+Open Data is the big buzzword of our day. And with connected health and data visualisation being similar scale buzzwords, we thought it’d be good to have a series of nice relaxed ‘Open Data Playground’ events, where web devs, graphic designers, *QL sorcerers, and Data mining enthusiasts can hang out and play with bits.
 
 No pressure, just pure unadulterated geekery. Don’t worry if this ‘isn’t your area’ or ‘you don’t know where to start’. There will be other geeks there that will be able to help. Just ask!
 
@@ -16,7 +16,7 @@ Recommended Tutorials
 Recommended Environment
 =======================
 
-Python with: (all easy\_install-able)
+Python with: (all easy_install-able)
 
 -   ofs
 -   pairtree

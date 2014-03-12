@@ -14,7 +14,7 @@ Maths
 
 The [rational function model](http://en.wikipedia.org/wiki/Polynomial_and_rational_function_modeling#Rational_function_models) for this mapping is as follows.
 
-\(y = \frac{1107x + 20860} {x^{2} - 19.91x + 190.9}\)
+(y = frac{1107x + 20860} {x^{2} - 19.91x + 190.9})
 
 Arduino Code
 ------------

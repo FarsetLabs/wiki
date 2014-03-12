@@ -1,4 +1,4 @@
-\_\_NOTOC\_\_ \_\_NOEDITSECTION\_\_ Farset Labs is run entirely by its members and, on the whole, this works pretty well. As hackers we hate making rules almost as much as we hate following them, so we really want to keep the number of rules to a minimum. We can only do this if members and visitors observe the spirit -- not just the letter -- of these rules; they are here firstly for your safety, and secondly to prevent annoyance to other users of the space.
+__NOTOC__ __NOEDITSECTION__ Farset Labs is run entirely by its members and, on the whole, this works pretty well. As hackers we hate making rules almost as much as we hate following them, so we really want to keep the number of rules to a minimum. We can only do this if members and visitors observe the spirit -- not just the letter -- of these rules; they are here firstly for your safety, and secondly to prevent annoyance to other users of the space.
 
 For a more comprehensive (Legalese) breakdown of the rules, see the [Code Of Conduct](Code_of_Conduct/Full_Text "wikilink")
 

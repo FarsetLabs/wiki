@@ -18,7 +18,7 @@ Farset Labs in the Press
 -   27/5/12:[How We Built Five Companies in One Weekend](http://syncni.com/news/p.php?id=6420) - SyncNI
 -   18/6/12:[Andrew Bolster from Farset Labs talking to Linzi Corr at ITE Belfast](http://www.youtube.com/watch?v=qeaN_2xU2hk) - Brightwater Recruitment
 -   27/6/12:[Event Recap: Flacknite](http://syncni.com/news/p.php?id=6741) - SyncNI, also published in SyncNI Summer Magazine
--   2/7/12:[Farset Labs added to somewhereto\_ directory](http://somewhereto.com/regions/northern-ireland/farset-labs) - SomewhereTo\_
+-   2/7/12:[Farset Labs added to somewhereto_ directory](http://somewhereto.com/regions/northern-ireland/farset-labs) - SomewhereTo_
 -   3/7/12:[MoMo’s New Crop Unearths Some Fresh Local Talent!](http://syncni.com/news/6764) - SyncNI
 -   11/9/12:[Belfast one of 16 UK cities to get 4G mobile services in 2012](http://www.bbc.co.uk/news/uk-northern-ireland-19558312) - BBC News
 -   12/9/12:[Russian News outlet pinches 4G Story, somehow makes Bolster an Employee](http://adelanta.info/news/england4/index2012/09/12/9731.html) - Adelanta (Click at your own risk)
@@ -36,11 +36,11 @@ Farset Labs in the Press
 -   21/1/13: [Belfast Hub for Global Games Jam](http://www.newsletter.co.uk/news/business/local-businesses/belfast-hub-for-global-games-jam-1-4705625) – Newsletter
 -   23/1/13: [Global Game Jam: Belfast to take part for first time](http://www.bbc.co.uk/news/uk-northern-ireland-21142798) – BBC News
 -   24/1/13: [Global Game Jam Hits Belfast](http://www.followingthenerd.com/video-games/global-game-jam-hits-belfast/?utm_source=rss&utm_medium=rss&utm_campaign=global-game-jam-hits-belfast)- Following The Nerd
--   25/1/13: [CMR at \#BLOC54](http://cmr.ulster.ac.uk/cmr-at-bloc54/) – University of Ulster’s Centre for Media Research
+-   25/1/13: [CMR at #BLOC54](http://cmr.ulster.ac.uk/cmr-at-bloc54/) – University of Ulster’s Centre for Media Research
 -   7/2/13: [Tech Britain Coverage](http://techbritain.com/videos/watch/43) – TechBritain
 -   9/2/13: [Raspberry Pi Jam & Coder Dojo Belfast ](http://coderkidz.com/2013/02/raspberry-pi-jam-coder-dojo-belfast/)- CoderKidz
 -   24/2/13: [Belfast Gamecraft Results](http://dublingamecraft.com/2013/02/24/belfat-gamecraft-winners/) – Dublin Gamecraft
--   18/3/13: [<http://syncni.com/news/2/1574/belfast-metropolitan-college-makes-it-happen-with-coderdojo-summit/tab/1356>\#.UW\_zakmDg9d BMC Makes it Happen at CoderDojo] – SyncNI
+-   18/3/13: [<http://syncni.com/news/2/1574/belfast-metropolitan-college-makes-it-happen-with-coderdojo-summit/tab/1356>#.UW_zakmDg9d BMC Makes it Happen at CoderDojo] – SyncNI
 -   15/5/13: [Innovation in Northern Ireland: Nesta in Belfast](http://www.nesta.org.uk/events/nesta_road_shows/assets/events/innovation_in_northern_ireland_nesta_in_belfast) – Nesta
 -   5/9/13: [Experimenting with ICT in Belfast](http://www.agendani.com/experimenting-with-ict-in-belfast/)- AgendaNI
 
