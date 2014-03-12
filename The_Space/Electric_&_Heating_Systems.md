@@ -1,11 +1,3 @@
-Contents
---------
-
--   [1 Electrics](#Electrics)
--   [2 Heating](#Heating)
-    -   [2.1 Boiler](#Boiler)
--   [3 Fire System](#Fire_System)
-
 ### Electrics
 
 The electric supply for the space is a 3-phase standard mains type supplied by Northern Ireland Electricity on the Commercial tariff. The main inlet breaker panel is at ceiling level on the far end of the office space.

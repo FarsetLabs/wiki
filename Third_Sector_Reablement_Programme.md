@@ -1,24 +1,5 @@
 In May 2013, Farset Labs, UUJ, and a network of Community and Voluntary Care stakeholders embarked on a programme of events focused on identifying and prototyping reablement assistance technologies.
 
-Contents
---------
-
--   [1 Ideation](#Ideation)
-    -   [1.1 Introduction](#Introduction)
-        -   [1.1.1 Event Format](#Event_Format)
-    -   [1.2 Discussion points](#Discussion_points)
-        -   [1.2.1 Brainstorming](#Brainstorming)
-        -   [1.2.2 Problem Exploration](#Problem_Exploration)
-        -   [1.2.3 Opportunity Resolution](#Opportunity_Resolution)
-    -   [1.3 Take-aways](#Take-aways)
--   [2 Technical Appraisal](#Technical_Appraisal)
-    -   [2.1 Introduction](#Introduction_2)
-    -   [2.2 Discussion Points](#Discussion_Points_2)
-    -   [2.3 Take-aways](#Take-aways_2)
--   [3 Hackathon](#Hackathon)
--   [4 Selected Project](#Selected_Project)
--   [5 Problem Ecosystem](#Problem_Ecosystem)
-
 Ideation
 ========
 

@@ -1,15 +1,5 @@
 The Ultimaker is a fantastic piece of hardware for the space that was paid for by [community crowdfunding](http://www.sponsume.com/project/farset-labs-3d-printer) and as such should be treated with more-than-the-usual amount of respect.
 
-Contents
---------
-
--   [1 Costs](#Costs)
-    -   [1.1 Normal Members Usage costs](#Normal_Members_Usage_costs)
-    -   [1.2 Off-plan costs](#Off-plan_costs)
--   [2 Use](#Use)
-    -   [2.1 Modelling](#Modelling)
-    -   [2.2 Slicing](#Slicing)
-
 Costs
 =====
 
@@ -21,7 +11,7 @@ Normal Members Usage costs
 The below costs are approximated to include a small fundraising amount above cost-price to make the printer sustainable in the long run
 
 |Aspect|Cost|
-|:-----|:---|
+|------|----|
 |Filament|5p/g|
 |Electricity|10p/hr|
 

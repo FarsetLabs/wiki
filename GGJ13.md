@@ -1,32 +1,10 @@
-Organiser: [Andrew Bolster](http://wiki.farsetlabs.org.uk/User:Bolster "User:Bolster")
+Organiser: [Andrew Bolster](User:Bolster "wikilink")
 
-General Info: [Global Game Jam](http://wiki.farsetlabs.org.uk/Global_Game_Jam "Global Game Jam")
+General Info: [Global Game Jam](Global Game Jam "wikilink")
 
 Alternative Event in [Coleraine](http://globalgamejam.org/sites/2013/university-ulster-coleraine-campus) - **Students only**
 
 [Jan 25-27 2013](http://globalgamejam.org/sites/2013/farset-labs):[Eventbrite](http://flacknite-ggj13.eventbrite.com/) (Registration is **required** for attendance)
-
-Contents
---------
-
--   [1 Theme](#Theme)
--   [2 Diversifiers](#Diversifiers)
-    -   [2.1 Sponsored Diversifiers](#Sponsored_Diversifiers)
--   [3 Keynote](#Keynote)
--   [4 Prizes](#Prizes)
--   [5 What Should I Bring](#What_Should_I_Bring)
--   [6 On the subject of food](#On_the_subject_of_food)
--   [7 Promotions](#Promotions)
--   [8 Suggested Reading](#Suggested_Reading)
--   [9 Assets and Resources](#Assets_and_Resources)
-    -   [9.1 Music/Sound effects](#Music.2FSound_effects)
-    -   [9.2 Pixelart/Sprites](#Pixelart.2FSprites)
--   [10 Logistics](#Logistics)
-    -   [10.1 Communications](#Communications)
-        -   [10.1.1 Local](#Local)
-        -   [10.1.2 Global](#Global)
-    -   [10.2 Media](#Media)
-    -   [10.3 Schedule](#Schedule)
 
 Theme
 =====
@@ -38,55 +16,55 @@ Diversifiers
 
 The GGJ Diversifier system is a system aimed at diversifying the games as well as providing motivation for experienced game jammers. In a sense, the diversifiers are a free-for-all voluntary list of secondary constraints, that the individual teams can choose to go for, or not, as they please. If they do go for one or more diversifiers, they get to tick off those diversifiers as fulfilled when uploading their game. As stated above, the diversifiers are absolutely voluntary, and no points are given for taking them. If you are a first time team of students, we recommend that you focus primarily on the overall constraint, and only add in extra diversifiers if you feel sure you will have something to hand in on Sunday.
 
-Stay Inside The Box   
+Stay Inside The Box  
 The whole game takes place in just one screen, no scrolling or changing screens in any way is allowed.
 
-True Colors   
-The game uses only the basic 16 colors: black, gray, silver, white, maroon, red, olive, yellow, green, lime, teal, aqua, navy, blue, purple and fuchsia. [http://www.december.com/html/spec/color16codes.html](http://www.december.com/html/spec/color16codes.html)
+True Colors  
+The game uses only the basic 16 colors: black, gray, silver, white, maroon, red, olive, yellow, green, lime, teal, aqua, navy, blue, purple and fuchsia. <http://www.december.com/html/spec/color16codes.html>
 
-Atari Age   
+Atari Age  
 The game must be, at a maximum, 4Kb in size.
 
-I Know What You Did Last Summer   
+I Know What You Did Last Summer  
 Game world is persistent between sessions and changes from one session affect game play on the following ones.
 
-Backwards   
+Backwards  
 One or more aspects of the game works the opposite as would normally be expected: maybe the controller is reversed (left is right, right is left), maybe you win lives every time you die, maybe it scrolls to the left and your character moonwalks.
 
-I’m Board   
+I’m Board  
 Make a game that is inspired by, but not a simulation of, a popular board game.
 
-The Truth is Out There   
+The Truth is Out There  
 Some external real world element, such as weather, time of the day, etc, affects gameplay. It MUST affect gameplay and can’t be only a scenario element.
 
-No cheating (please)   
+No cheating (please)  
 The game system relies on willing player participation to enforce the rules of the game world (e.g., hold your breath, close your eyes, etc.).
 
-More the Merrier   
+More the Merrier  
 The game is a competitive or cooperative multiplayer "party game" (i.e., based on minigames, humor, 4+ players, audience engagement, etc.), meant for one screen or more.
 
-10 little pigs   
+10 little pigs  
 The game uses 10 or more buttons or keys for gameplay-related actions (no pause or anything else).
 
-Two Are Better Than One   
+Two Are Better Than One  
 The game requires two or more different mobile devices to play.
 
-Approved for All Audiences   
+Approved for All Audiences  
 The game must not show any violence, not even cartoonish. Stepping on living mushrooms is off the list, as is killing any type of enemies, not even undead, though we know they’re already dead…
 
-Inclusive   
+Inclusive  
 The game is specifically designed to include people with a given disability.
 
-X Marks the Spot   
+X Marks the Spot  
 The game involves something location-based, such as a geocache, or requires the player to go to one or more specific geographic locations.
 
 Sponsored Diversifiers
 ----------------------
 
-Bigger Picture   
+Bigger Picture  
 The game touches on a political, environmental or social issue.
 
-May the (Web) Force Be with You   
+May the (Web) Force Be with You  
 The game runs in a browser with no plugin.
 
 Keynote
@@ -145,7 +123,7 @@ Suggested Reading
     -   [The Final Countdown](http://www.convictinteractive.com/?p=297)
 -   [Mixamo Character Design Tech-Talk](http://www.youtube.com/watch?v=VV4zMBA32B8)
 -   [Chris Taylor game design template](http://www.runawaystudios.com/articles/chris_taylor_gdd.asp)
--   [Gamasutra «Opinion: Indie Game Design Do-s and Don't-s: A Manifesto»](http://www.gamasutra.com/view/news/26577/Opinion_Indie_Game_Design_Dos_and_Donts_A_Manifesto.php#.UOrVVtGYPdn)
+-   [<http://www.gamasutra.com/view/news/26577/Opinion_Indie_Game_Design_Dos_and_Donts_A_Manifesto.php>\#.UOrVVtGYPdn Gamasutra «Opinion: Indie Game Design Do-s and Don't-s: A Manifesto»]
 -   [The Guardian «Five key lessons for every young game developer»](http://www.guardian.co.uk/technology/gamesblog/2012/jul/04/five-lessons-for-game-developers?CMP=twt_gu)
 
 Assets and Resources
@@ -204,96 +182,19 @@ Media
 Schedule
 --------
 
-Provisional!
+Provisional!  
 
-Day
-
-Time
-
-Activity
-
-Notes
-
-Fri
-
-1600
-
-Space Opens to Attendees with Tickets
-
-Fri
-
-1700
-
-Intro, Keynote, Theme Announcement
-
-Since the theme is a secret, we'll be turning off the UStream mic during this section
-
-Fri
-
-1800
-
-Brainstorming/Team-forming + Munchies
-
-Team-forming with our tried and true 'blackboard' method... it'll make sense later...
-
-Fri
-
-2200
-
-'First-hours' discussion
-
-Teams will be expected to be formed and working on one or who main ideas, with a plan of work
-
-Sat
-
-0100
-
-'Official' Close of day
-
-Attendees are welcome (but advised against) to stay through the night.
-
-Sat
-
-1600
-
-'Day One' Seminar
-
-Each team will present a short update of their progress and any trouble they've had (Mistakes are fine! Giving up is the only failure)
-
-Sat
-
-1800
-
-Movie Time: A Screening of 'Indie Game: The Movie'
-
-An opportunity to chill out, get your head out of your code for a bit, and maybe bet some inspiration!
-
-Sat
-
-2100
-
-Open Help Desk
-
-We'll try to round up a few 'experts' to answer as many questions as possible about any problems people are having (if you want to volunteer, let [Bolster](http://wiki.farsetlabs.org.uk/User:Bolster "User:Bolster") know!)
-
-Sun
-
-1600
-
-Time's Up!
-
-Time to start uploading!
-
-Sun
-
-1700
-
-Closing Ceremony
-
-One last presentation round to show off your successes and let everyone playtest, announcing the winner of the GitHub prize
-
-Sun
-
-1800
-
-Clean up and Sleep!
+|Day|Time|Activity|Notes|
+|---|----|--------|-----|
+|Fri|1600|Space Opens to Attendees with Tickets|
+|Fri|1700|Intro, Keynote, Theme Announcement|Since the theme is a secret, we'll be turning off the UStream mic during this section|
+|Fri|1800|Brainstorming/Team-forming + Munchies|Team-forming with our tried and true 'blackboard' method... it'll make sense later...|
+|Fri|2200|'First-hours' discussion|Teams will be expected to be formed and working on one or who main ideas, with a plan of work|
+|Sat|0100|'Official' Close of day|Attendees are welcome (but advised against) to stay through the night.|
+|Sat|1600|'Day One' Seminar|Each team will present a short update of their progress and any trouble they've had (Mistakes are fine! Giving up is the only failure)|
+|Sat|1800|Movie Time: A Screening of 'Indie Game: The Movie'|An opportunity to chill out, get your head out of your code for a bit, and maybe bet some inspiration!|
+|Sat|2100|Open Help Desk|We'll try to round up a few 'experts' to answer as many questions as possible about any problems people are having (if you want to volunteer, let [Bolster](User:Bolster "wikilink") know!)|
+|Sun|1600|Time's Up!|Time to start uploading!|
+|Sun|1700|Closing Ceremony|One last presentation round to show off your successes and let everyone playtest, announcing the winner of the GitHub prize|
+|Sun|1800|Clean up and Sleep!|
+||

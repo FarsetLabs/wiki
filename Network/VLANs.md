@@ -2,7 +2,7 @@ VLANs
 =====
 
 |VLAN ID|Assigned Use|
-|:------|:-----------|
+|-------|------------|
 |2|Network Infrastructure and Services|
 |3|Members|
 |4|Non-members (Guest Network)|

@@ -2,18 +2,6 @@ Farset Labs is funded through a mix of membership dues, event/programme sponsors
 
 It currently receives no funding support from any grant giving organisations. We do not receive funds from InvestNI.
 
-Contents
---------
-
--   [1 Sponsoring Farset Labs](#Sponsoring_Farset_Labs)
-    -   [1.1 Recruiting](#Recruiting)
-    -   [1.2 Marketing](#Marketing)
-    -   [1.3 Visibility](#Visibility)
-    -   [1.4 Competitive Pricing](#Competitive_Pricing)
--   [2 Financial Breakdown](#Financial_Breakdown)
-    -   [2.1 Income](#Income)
-    -   [2.2 Outgoings](#Outgoings)
-
 Sponsoring Farset Labs
 ======================
 
@@ -41,7 +29,7 @@ If you go for one of our equipment/resource sponsoring programmes, you'll get ne
 
 Selecting one of our Event Sponsoring Programmes will allow you to reach out and get more face time with the community.
 
-Given the amount of [notoriety](http://wiki.farsetlabs.org.uk/Press "Press") Farset has attained in its short existence, now is the time to jump on and be part of one of the most news-worthy programmes in Northern Ireland today.
+Given the amount of [notoriety](Press "wikilink") Farset has attained in its short existence, now is the time to jump on and be part of one of the most news-worthy programmes in Northern Ireland today.
 
 Visibility
 ----------
@@ -69,65 +57,23 @@ Income
 
 At year end 2012 (April '13), Farset Lab's income breakdown was approximately;
 
-Sector
-
-Sector Breakdown
-
-% contrib
-
-Memberships
-
-Individual
-
-35%
-
-Corporate
-
-30%
-
-Events
-
-Sponsored
-
-22%
-
-Venue Hire
-
-11%
-
-Donations
-
-2%
+|Sector|Sector Breakdown|% contrib|
+|------|----------------|---------|
+|Memberships|Individual|35%|
+||Corporate|30%|
+|rowspan = "2" | Events|Sponsored|22%|
+|| Venue Hire|11%|
+|Donations|2%|
 
 Outgoings
 ---------
 
 At year end 2012 (April '13), Farset Lab's outgoings breakdown was approximately;
 
-Sector
-
-Sector Breakdown
-
-% contrib
-
-Overheads
-
-Rent
-
-36%
-
-Service Charge
-
-24%
-
-Utilities
-
-9%
-
-Exceptional
-
-24%
-
-Event Expenses
-
-7%
+|Sector|Sector Breakdown|% contrib|
+|------|----------------|---------|
+|Overheads|Rent|36%|
+||Service Charge|24%|
+||Utilities|9%|
+|colspan = "2" | Exceptional|24%|
+|Event Expenses|7%|

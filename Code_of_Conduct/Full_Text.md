@@ -1,55 +1,3 @@
-Contents
---------
-
--   [1 Changes to the Code as per 16/02/13](#Changes_to_the_Code_as_per_16.2F02.2F13)
-    -   [1.1 Proposed Changes](#Proposed_Changes)
-        -   [1.1.1 1.2 Jurisdiction](#1.2_Jurisdiction)
-        -   [1.1.2 1.5 Handling of Complaints and Breaches](#1.5.09Handling_of_Complaints_and_Breaches)
-        -   [1.1.3 1.6 Period of Review](#1.6_Period_of_Review)
-        -   [1.1.4 2 Requirements of Members and Visitors](#2_Requirements_of_Members_and_Visitors)
-        -   [1.1.5 2.1 Rules for Use of Electrical, Mechanical & Power Tools](#2.1_Rules_for_Use_of_Electrical.2C_Mechanical_.26_Power_Tools)
-        -   [1.1.6 2.1.1 Use of the Ultimaker 3D Printer](#2.1.1_Use_of_the_Ultimaker_3D_Printer)
-        -   [1.1.7 2.3 Banned Materials & Equipment](#2.3_Banned_Materials_.26_Equipment)
-        -   [1.1.8 Additional Clauses](#Additional_Clauses)
--   [2 Code of Conduct for Members](#Code_of_Conduct_for_Members)
-    -   [2.1 Who the Code applies to](#Who_the_Code_applies_to)
-    -   [2.2 Jurisdiction](#Jurisdiction)
-    -   [2.3 Changes to the Code](#Changes_to_the_Code)
-    -   [2.4 Succession of Common Sense](#Succession_of_Common_Sense)
-    -   [2.5 Handling of Complaints and Breaches](#Handling_of_Complaints_and_Breaches)
-    -   [2.6 Period of Review](#Period_of_Review)
-    -   [2.7 Statutory Obligations of Farset Labs](#Statutory_Obligations_of_Farset_Labs)
--   [3 Requirements of Members and Visitors](#Requirements_of_Members_and_Visitors)
-    -   [3.1 Rules for Use of Electrical, Mechanical & Power Tools](#Rules_for_Use_of_Electrical.2C_Mechanical_.26_Power_Tools)
-    -   [3.2 Storing Projects and Equipment on Farset Labs Property](#Storing_Projects_and_Equipment_on_Farset_Labs_Property)
-    -   [3.3 Banned Materials and Equipment](#Banned_Materials_and_Equipment)
-    -   [3.4 Housekeeping](#Housekeeping)
-    -   [3.5 Access & Security](#Access_.26_Security)
-        -   [3.5.1 Access Control](#Access_Control)
-    -   [3.6 Financial Obligations](#Financial_Obligations)
-    -   [3.7 Damages & Accidents](#Damages_.26_Accidents)
-    -   [3.8 Community](#Community)
-        -   [3.8.1 Weavers Court & Car Parking](#Weavers_Court_.26_Car_Parking)
-    -   [3.9 Provision of Abandoned & Donated Property](#Provision_of_Abandoned_.26_Donated_Property)
-        -   [3.9.1 “Lost & Found” and “Free to Use” boxes](#.E2.80.9CLost_.26_Found.E2.80.9D_and_.E2.80.9CFree_to_Use.E2.80.9D_boxes)
-            -   [3.9.1.1 The “Lost & Found” box](#The_.E2.80.9CLost_.26_Found.E2.80.9D_box)
-            -   [3.9.1.2 The “Free to Use” box](#The_.E2.80.9CFree_to_Use.E2.80.9D_box)
-        -   [3.9.2 Donating Equipment](#Donating_Equipment)
--   [4 Appendices](#Appendices)
-    -   [4.1 Agreement by Farset Labs](#Agreement_by_Farset_Labs)
-    -   [4.2 Notices](#Notices)
-        -   [4.2.1 Contacting Farset Labs](#Contacting_Farset_Labs)
-        -   [4.2.2 Other Formats](#Other_Formats)
--   [5 Summary Document](#Summary_Document)
-    -   [5.1 Display of the Code of Conduct (Summary Document)](#Display_of_the_Code_of_Conduct_.28Summary_Document.29)
-    -   [5.2 Changes to the Code of Conduct (Summary Document)](#Changes_to_the_Code_of_Conduct_.28Summary_Document.29)
-    -   [5.3 Text of the Code of Conduct (Summary Document)](#Text_of_the_Code_of_Conduct_.28Summary_Document.29)
--   [6 Code of Conduct for Members](#Code_of_Conduct_for_Members_2)
-    -   [6.1 Access](#Access)
-    -   [6.2 Projects & Equipment](#Projects_.26_Equipment)
-    -   [6.3 Housekeeping](#Housekeeping_2)
-    -   [6.4 Health & Safety](#Health_.26_Safety)
-
 Changes to the Code as per 16/02/13
 -----------------------------------
 
@@ -91,7 +39,7 @@ The Ultimaker is an expensive item of equipment and should not be used without b
 
 Change in wording: 1 “Certain situations will allow normally disallowed materials & equipment to be brought to Farset Labs, for example custom components or dangerous chemicals needed for specialised processes. Farset Labs must be consulted before bringing any such items to the space, without exception.” to be changed to “Certain situations will allow normally disallowed materials & equipment to be brought to Farset Labs, for example custom components or dangerous chemicals needed for specialised processes. Where equipment or materials are illegal to be present in the space, they will be disallowed. Where they are legal but present a significant risk, the approval of a majority of the legal Directors of the company is required. Restrictions or instructions on storage & use may also be applied.”
 
-  
+ 
 
 #### Additional Clauses
 
@@ -173,7 +121,7 @@ When the Code is applicable, all members and visitors must:
 
 *Members must not vandalise the space or its equipment, and must not deliberately damage the property of Farset Labs, of its members or of visitors.*
 
-**The next pages outline the detailed requirements and expectations of Farset Labs, its members and its visitors while on Farset Labs property or at events.**
+'''The next pages outline the detailed requirements and expectations of Farset Labs, its members and its visitors while on Farset Labs property or at events. '''
 
 ### Rules for Use of Electrical, Mechanical & Power Tools
 

@@ -1,14 +1,5 @@
 Membership of Farset Labs is charged on a monthly basis at a nominal rate, or at a higher daily rate for occasional visitors. Both forms of membership grant the members access to all of the features and resources of Farset Labs, including free entry to all internally-run events, and subsidised entry to externally-run events open to the public.
 
-Contents
---------
-
--   [1 Fees](#Fees)
-    -   [1.1 Payment Types](#Payment_Types)
-        -   [1.1.1 Cash & Cheque](#Cash_.26_Cheque)
-        -   [1.1.2 BACS & Direct Debit](#BACS_.26_Direct_Debit)
-        -   [1.1.3 Paypal](#Paypal)
-
 Fees
 ====
 

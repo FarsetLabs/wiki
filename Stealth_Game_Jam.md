@@ -1,18 +1,10 @@
-Contents
---------
-
--   [1 Quicklinks](#Quicklinks)
--   [2 Stealth Game Jam](#Stealth_Game_Jam)
-    -   [2.1 What is it?](#What_is_it.3F)
-    -   [2.2 Nitty Gritty](#Nitty_Gritty)
-
 Quicklinks
 ----------
 
 Stealth Game Jam
 ----------------
 
-As a warmup to the [Global Game Jam](http://wiki.farsetlabs.org.uk/Global_Game_Jam "Global Game Jam") we have hope to bring you I small taste of jam, stealth flavoured jam.
+As a warmup to the [Global Game Jam](Global Game Jam "wikilink") we have hope to bring you I small taste of jam, stealth flavoured jam.
 
 ### What is it?
 

@@ -12,8 +12,8 @@ In-House Resources
 
 Over time we're developing a library of short guides for the pi (mostly adapted from other sources or from pure experience)
 
--   [Idiots Guide to putting an Image on your Pi](http://wiki.farsetlabs.org.uk/Idiots_Guide_to_putting_an_Image_on_your_Pi "Idiots Guide to putting an Image on your Pi")
--   [Hello Pi](http://wiki.farsetlabs.org.uk/w/index.php?title=Hello_Pi&action=edit&redlink=1 "Hello Pi (page does not exist)") from Python (and later a range of other languages)
--   [LEDBorg](http://wiki.farsetlabs.org.uk/LEDBorg "LEDBorg") - How to use the fantastic [GPIO](http://en.wikipedia.org/wiki/General_Purpose_Input/Output) LED board by [PiBorg](http://piborg.org)
--   [RPMC](http://wiki.farsetlabs.org.uk/w/index.php?title=RPMC&action=edit&redlink=1 "RPMC (page does not exist)") - [XBMC](http://xbmc.org/) Media Centre on the Raspberry Pi
--   [AdvanceMAME](http://wiki.farsetlabs.org.uk/AdvanceMAME "AdvanceMAME") - Play thousands of retro video games on your Pi
+-   [Idiots Guide to putting an Image on your Pi](Idiots Guide to putting an Image on your Pi "wikilink")
+-   [Hello Pi](Hello Pi "wikilink") from Python (and later a range of other languages)
+-   [LEDBorg](LEDBorg "wikilink") - How to use the fantastic [GPIO](http://en.wikipedia.org/wiki/General_Purpose_Input/Output) LED board by [PiBorg](http://piborg.org)
+-   [RPMC](RPMC "wikilink") - [XBMC](http://xbmc.org/) Media Centre on the Raspberry Pi
+-   [AdvanceMAME](AdvanceMAME "wikilink") - Play thousands of retro video games on your Pi

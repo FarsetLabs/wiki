@@ -1,12 +1,3 @@
-Contents
---------
-
--   [1 What?](#What.3F)
--   [2 Where?](#Where.3F)
--   [3 When?](#When.3F)
--   [4 Rules of the Game](#Rules_of_the_Game)
--   [5 Who and what](#Who_and_what)
-
 What?
 -----
 
@@ -22,7 +13,7 @@ At Farset Labs, silly.
 When?
 -----
 
-The next event is on the [[| 2nd of May 2013 at 17:30](https://www.facebook.com/events/105947476247083/)]
+The next event is on the [ 2nd of May 2013 at 17:30](https://www.facebook.com/events/105947476247083/ "wikilink")
 
 Rules of the Game
 -----------------
@@ -37,10 +28,10 @@ Rules of the Game
 Who and what
 ------------
 
- Michael Compton   
+Michael Compton  
 Common [Lisp](http://xkcd.com/297/): We'll get meta-eval on you.
 
 [ZeroMQ](http://www.zeromq.org/): Sugary Sockets
 
- [Andrew Bolster](http://wiki.farsetlabs.org.uk/User:Bolster "User:Bolster")   
-[The Secret Lecture](http://wiki.farsetlabs.org.uk/The_Secret_Lecture "The Secret Lecture"); What I'm sick of telling software engineering students
+[Andrew Bolster](User:bolster "wikilink")  
+[The Secret Lecture](The Secret Lecture "wikilink"); What I'm sick of telling software engineering students

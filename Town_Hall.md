@@ -5,11 +5,11 @@ Aside from any legally/strategically sensitive discussions, no subject is off li
 Next Town Hall
 ==============
 
-[Monday March 25th @ 1900](http://wiki.farsetlabs.org.uk/Town_Hall/1303 "Town Hall/1303")
+[ Monday March 25th @ 1900](Town Hall/1303 "wikilink")
 
 Previous Town Halls
 ===================
 
-[Monday February 16th @ 1500](http://wiki.farsetlabs.org.uk/Town_Hall/1602 "Town Hall/1602")
+[ Monday February 16th @ 1500](Town Hall/1602 "wikilink")
 
-[Template](http://wiki.farsetlabs.org.uk/Town_Hall/Template "Town Hall/Template")
+[ Template](Town Hall/Template "wikilink")

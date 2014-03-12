@@ -1,20 +1,8 @@
-\<googleagenda\>farsetlabs.org.uk\_srmqnkn373auq51u00s2nijrq8@group.calendar.google.com\</googleagenda\>
+<div style="float:right; clear:both; margin-left:0.5em;">
+<googleagenda>farsetlabs.org.uk\_srmqnkn373auq51u00s2nijrq8@group.calendar.google.com</googleagenda>
 
-Events in Farset Labs usually take place in the [Event Space](http://wiki.farsetlabs.org.uk/w/index.php?title=Event_Space&action=edit&redlink=1 "Event Space (page does not exist)"), with exceptions for very large or very small ones. Members, companies and the general public can book an event (see below) in most parts of Farset Labs.
-
-Contents
---------
-
--   [1 Event Schedule](#Event_Schedule)
-    -   [1.1 Regular Events](#Regular_Events)
--   [2 Semi-Regular Events](#Semi-Regular_Events)
--   [3 Proposed Events](#Proposed_Events)
-    -   [3.1 One Off Events](#One_Off_Events)
--   [4 Orphaned Events](#Orphaned_Events)
--   [5 Booking Events](#Booking_Events)
-    -   [5.1 Booking rooms](#Booking_rooms)
-    -   [5.2 Fees](#Fees)
--   [6 Managing Events](#Managing_Events)
+</div>
+Events in Farset Labs usually take place in the [Event Space](Event Space "wikilink"), with exceptions for very large or very small ones. Members, companies and the general public can book an event (see below) in most parts of Farset Labs.
 
 Event Schedule
 --------------
@@ -23,74 +11,49 @@ The timetable shown below is the basic running order of Farset Labs events on a 
 
 ### Regular Events
 
-1st
-
-2nd
-
-3rd
-
-4th
-
-Mon
-
-[Directors Meeting](http://wiki.farsetlabs.org.uk/w/index.php?title=Directors_Meeting&action=edit&redlink=1 "Directors Meeting (page does not exist)")
-
-[Town Hall](http://wiki.farsetlabs.org.uk/Town_Hall "Town Hall")
-
-Tue
-
-[Gathering of Lightning](http://wiki.farsetlabs.org.uk/Gathering_of_Lightning "Gathering of Lightning")
-
-Wed
-
-[Wildcard User Group](http://wiki.farsetlabs.org.uk/Wildcard_User_Group "Wildcard User Group")
-
-Thu
-
-[Open Data Playground](http://wiki.farsetlabs.org.uk/Open_Data_Playground "Open Data Playground")
-
-Fri
-
-Sat
-
-[FlackNite](http://wiki.farsetlabs.org.uk/FlackNite "FlackNite")
-
-Sun
-
-[FEAST/FAMINE](http://wiki.farsetlabs.org.uk/FEAST/FAMINE "FEAST/FAMINE")
+||1st|2nd|3rd|4th|
+|---|---|---|---|---|
+|Mon|[Directors Meeting](Directors Meeting "wikilink")|[Town Hall](Town Hall "wikilink")|
+|Tue||||[Gathering of Lightning](Gathering of Lightning "wikilink")|
+|Wed|[Wildcard User Group](Wildcard User Group "wikilink")|
+|Thu||||[Open Data Playground](Open Data Playground "wikilink")|
+|Fri|||||
+|Sat|||[FlackNite](FlackNite "wikilink")||
+|Sun|[FEAST/FAMINE](FEAST/FAMINE "wikilink")|||
+||
 
 Semi-Regular Events
 -------------------
 
--   [Gathering of Lightning](http://wiki.farsetlabs.org.uk/Gathering_of_Lightning "Gathering of Lightning")
--   [Raspberry Jam](http://wiki.farsetlabs.org.uk/Raspberry_Jam "Raspberry Jam")
--   [Hack The Space](http://wiki.farsetlabs.org.uk/Hack_The_Space "Hack The Space")
+-   [Gathering of Lightning](Gathering of Lightning "wikilink")
+-   [Raspberry Jam](Raspberry Jam "wikilink")
+-   [Hack The Space](Hack The Space "wikilink")
 
 Proposed Events
 ---------------
 
--   [Stealth Game Jam](http://wiki.farsetlabs.org.uk/Stealth_Game_Jam "Stealth Game Jam")
--   [PaintChips](http://wiki.farsetlabs.org.uk/w/index.php?title=PaintChips&action=edit&redlink=1 "PaintChips (page does not exist)")
--   [Boarduino Build-off](http://wiki.farsetlabs.org.uk/Boarduino_Build-off "Boarduino Build-off")
--   [Arduino workshops](http://wiki.farsetlabs.org.uk/w/index.php?title=Arduino_workshops&action=edit&redlink=1 "Arduino workshops (page does not exist)")
--   [Android Development](http://wiki.farsetlabs.org.uk/w/index.php?title=Android_Development&action=edit&redlink=1 "Android Development (page does not exist)")
--   [Idiots Guide to Programming](http://wiki.farsetlabs.org.uk/w/index.php?title=Idiots_Guide_to_Programming&action=edit&redlink=1 "Idiots Guide to Programming (page does not exist)")
+-   [Stealth Game Jam](Stealth Game Jam "wikilink")
+-   [PaintChips](PaintChips "wikilink")
+-   [Boarduino Build-off](Boarduino Build-off "wikilink")
+-   [Arduino workshops](Arduino workshops "wikilink")
+-   [Android Development](Android Development "wikilink")
+-   [Idiots Guide to Programming](Idiots Guide to Programming "wikilink")
 
 ### One Off Events
 
--   [Global Game Jam](http://wiki.farsetlabs.org.uk/Global_Game_Jam "Global Game Jam")
+-   [Global Game Jam](Global Game Jam "wikilink")
 
 Orphaned Events
 ---------------
 
 These are events that used to run regularly/semi-regularly but died off. If it's something you'd be interested in championing any of them, give us a shout on [events@farsetlabs.org.uk](mailto://events@farsetlabs.org.uk)
 
--   [Legitimate Business](http://wiki.farsetlabs.org.uk/Legitimate_Business "Legitimate Business")
--   [HacksHackers](http://wiki.farsetlabs.org.uk/HacksHackers "HacksHackers")
--   [Learning Zone](http://wiki.farsetlabs.org.uk/Learning_Zone "Learning Zone")
--   [Coffee Morning](http://wiki.farsetlabs.org.uk/Coffee_Morning "Coffee Morning")
--   [Art-A-Tech](http://wiki.farsetlabs.org.uk/Art-A-Tech "Art-A-Tech")
--   [Music Mondays](http://wiki.farsetlabs.org.uk/Music_Mondays "Music Mondays")
+-   [Legitimate Business](Legitimate Business "wikilink")
+-   [HacksHackers](HacksHackers "wikilink")
+-   [Learning Zone](Learning Zone "wikilink")
+-   [Coffee Morning](Coffee Morning "wikilink")
+-   [Art-A-Tech](Art-A-Tech "wikilink")
+-   [Music Mondays](Music Mondays "wikilink")
 
 Booking Events
 --------------
@@ -99,7 +62,7 @@ If you are thinking about hosting an event at Farset Labs, please email [events@
 
 ### Booking rooms
 
-Members wishing to book rooms can do so free of charge for meetings or small events. The Lounge, the Event Space, the workshop and in certain circumstances the Co-working area are bookable. Please email events@farsetlabs.org.uk, or ask any member of management while in the space. Alternatively, feel free to [Contact Us](http://wiki.farsetlabs.org.uk/Contact_Us "Contact Us") by any means you wish.
+Members wishing to book rooms can do so free of charge for meetings or small events. The Lounge, the Event Space, the workshop and in certain circumstances the Co-working area are bookable. Please email events@farsetlabs.org.uk, or ask any member of management while in the space. Alternatively, feel free to [Contact Us](Contact Us "wikilink") by any means you wish.
 
 ### Fees
 
@@ -108,4 +71,4 @@ There is no charge for members booking any room for non-profit events or meeting
 Managing Events
 ===============
 
-If you are managing an event at Farset Labs, please consider following our [Event Management Timeline](http://wiki.farsetlabs.org.uk/Event_Management_Timeline "Event Management Timeline"), (and if you can think of a better way to do it, let us know!)
+If you are managing an event at Farset Labs, please consider following our [Event Management Timeline](Event Management Timeline "wikilink"), (and if you can think of a better way to do it, let us know!)

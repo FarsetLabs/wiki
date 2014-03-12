@@ -1,16 +1,16 @@
 Farset Labs is a private company limited by guarantee, with four current directors:
 
--   [Andrew Bolster](http://wiki.farsetlabs.org.uk/User:Bolster "User:Bolster")
+-   [Andrew Bolster](User:Bolster "wikilink")
 -   Ben Bland
 -   Dylan Wylie
--   [David Kane](http://wiki.farsetlabs.org.uk/w/index.php?title=User:DavidKane&action=edit&redlink=1 "User:DavidKane (page does not exist)")
+-   [David Kane](User:DavidKane "wikilink")
 
 Code of Conduct
 ===============
 
 The currently enacted form of the Code of Conduct is on the [Blog](http://farsetlabs.org.uk/blog/membership/code-of-conduct/full-code-of-conduct-for-members/). There is also an [abridged version](http://farsetlabs.org.uk/blog/membership/code-of-conduct/) but it is not guaranteed to be legally identical to the full legalese text.
 
-There is also a wiki-version of the [Code of Conduct](http://wiki.farsetlabs.org.uk/Code_of_Conduct "Code of Conduct") that includes the latest proposed changes. This is not currently enacted until it is updated on the blog after unanimous director approval and community consultation, including but not limited to this wiki, the [Town Hall](http://wiki.farsetlabs.org.uk/Town_Hall "Town Hall") meetings, or other ad-hoc community conversations. The community will always be notified of changes before publication.
+There is also a wiki-version of the [Code of Conduct](Code of Conduct "wikilink") that includes the latest proposed changes. This is not currently enacted until it is updated on the blog after unanimous director approval and community consultation, including but not limited to this wiki, the [Town Hall](Town Hall "wikilink") meetings, or other ad-hoc community conversations. The community will always be notified of changes before publication.
 
 Various Legislation etc
 =======================
@@ -23,7 +23,7 @@ Various Legislation etc
 Vital Stats
 ===========
 
-||
+|---|---|
 |Opening Date|06/04/12|
 |Company Name|FARSET LABS|
 |Company Number|NI611278|

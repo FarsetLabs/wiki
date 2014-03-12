@@ -16,3 +16,5 @@ Commercial
 You must contact [the directors](mailto:admin@farsetlabs.org.uk) for permission at least a week in advance before doing any commercial filming.
 
 Our day rate for commercial filming in the space is £300. We may reduce or waive this at our discretion if we like your idea. (We've been known to do news interviews for free in the past.)
+
+<Category:Guides>

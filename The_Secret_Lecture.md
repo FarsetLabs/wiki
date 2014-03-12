@@ -1,13 +1,4 @@
-This is a work in progress by [User:Bolster](http://wiki.farsetlabs.org.uk/User:Bolster "User:Bolster") to share his experiences and frustrations with some of the things universities and colleges DON'T teach software engineering students.
-
-Contents
---------
-
--   [1 The Big Three](#The_Big_Three)
-    -   [1.1 Version Control](#Version_Control)
-        -   [1.1.1 Committment, for phobics](#Committment.2C_for_phobics)
-        -   [1.1.2 Time Travel for Neanderthals](#Time_Travel_for_Neanderthals)
-        -   [1.1.3 Back to the Future](#Back_to_the_Future)
+This is a work in progress by <User:Bolster> to share his experiences and frustrations with some of the things universities and colleges DON'T teach software engineering students.
 
 The Big Three
 =============

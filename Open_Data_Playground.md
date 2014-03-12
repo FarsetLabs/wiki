@@ -11,7 +11,7 @@ Recommended Tutorials
 
 [Linked Data Introduction](http://www.slideshare.net/soeren1611/linked-data-tutorial-presentation-955375)
 
-[Data Sources](http://wiki.farsetlabs.org.uk/Resources#Data_Sources "Resources")
+[ Data Sources](Resources#Data_Sources "wikilink")
 
 Recommended Environment
 =======================

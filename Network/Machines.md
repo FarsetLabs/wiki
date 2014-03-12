@@ -5,7 +5,7 @@ Services
 --------
 
 |IP Address|Machine|Assigned Use|
-|:---------|:------|:-----------|
+|----------|-------|------------|
 |10.83.2.1|Jonnybox|Core router & internet gateway|
 |10.83.2.2|Linksys|Core switch|
 |10.83.2.4|Cisco SF302-08P|PoE PBX Switch|

@@ -1,13 +1,4 @@
-[![Flack logo.png](/w/images/thumb/4/4c/Flack_logo.png/150px-Flack_logo.png)](http://wiki.farsetlabs.org.uk/File:Flack_logo.png)
-
-Contents
---------
-
--   [1 Links](#Links)
--   [2 Project Ideas](#Project_Ideas)
-    -   [2.1 Internal Projects](#Internal_Projects)
-    -   [2.2 'Fun' Projects](#.27Fun.27_Projects)
--   [3 Mgmt](#Mgmt)
+![](flack_logo.png "flack_logo.png")
 
 Links
 =====
@@ -44,4 +35,4 @@ Internal Projects
 Mgmt
 ====
 
--   [PR](http://wiki.farsetlabs.org.uk/FlacknitePR "FlacknitePR")
+-   [PR](FlacknitePR "wikilink")

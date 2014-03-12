@@ -1,11 +1,3 @@
-Contents
---------
-
--   [1 PR Contacts](#PR_Contacts)
--   [2 Sponsors](#Sponsors)
-    -   [2.1 Approached](#Approached)
-    -   [2.2 Confirmed](#Confirmed)
-
 PR Contacts
 ===========
 

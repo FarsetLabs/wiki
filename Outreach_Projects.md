@@ -2,15 +2,6 @@ On this page we keep a (mostly) updated list of Outreach projects from the NI ed
 
 Any Farset Labs member is eligible for free AccessNI check through [W5-STEMNET](http://www.w5online.co.uk/stemnet/) or [Young Enterprise NI](http://www.yeni.co.uk/index.htm), and this check is **not** exclusive to the event or the collaborator.
 
-Contents
---------
-
--   [1 CoderDojo](#CoderDojo)
-    -   [1.1 What is a Coder Dojo](#What_is_a_Coder_Dojo)
--   [2 Community Engagements](#Community_Engagements)
--   [3 Current BringITOn Events](#Current_BringITOn_Events)
--   [4 Current STEMNET Availabilities](#Current_STEMNET_Availabilities)
-
 CoderDojo
 =========
 
@@ -18,7 +9,7 @@ We host a Dojo that is run on the first and third Thursday of the month (mostly)
 
 -   [Eventbrite Registration Page](http://fsl-dojo.eventbrite.com) - Also is the definitive guide to which dates are running
 
-We also maintain a [Farset Guide to Programming Guides](http://wiki.farsetlabs.org.uk/Resources/Farset_Guide_of_Programming_Guides "Resources/Farset Guide of Programming Guides")' aimed at new coders, both young and old!
+We also maintain a [Farset Guide to Programming Guides](Resources/Farset Guide of Programming Guides "wikilink")' aimed at new coders, both young and old!
 
 We also know of the following NI based Dojo's that are in dire need of one-off or regular mentors
 
@@ -44,7 +35,7 @@ For more information about Coder Dojo, check out the [CoderDojo global webpage](
 Community Engagements
 =====================
 
--   [Third Sector Reablement Programme](http://wiki.farsetlabs.org.uk/Third_Sector_Reablement_Programme "Third Sector Reablement Programme")
+-   [Third Sector Reablement Programme](Third Sector Reablement Programme "wikilink")
 
 Current BringITOn Events
 ========================
@@ -55,7 +46,7 @@ Current BringITOn Events
 -   Contact Point: bringiton@momentumni.org / bolster@farsetlabs.org.uk
 
 |Date|Location|Time|
-|:---|:-------|:---|
+|----|--------|----|
 |Wednesday 10th April|St Marys College, Derry|9.30-12.30|
 |Thursday 11th April|Queen’s, Belfast|10.00-1.00|
 |Monday 15th April|University of Ulster, Coleraine|10.00-1.00|
@@ -90,15 +81,15 @@ Current STEMNET Availabilities
 -   Contact Point: marycarson@w5online.co.uk / bolster@farsetlabs.org.uk
 
 |School|Town|Activity|No of Students|Date|No STEM Ambassadors Needed|Further Information|
-|:-----|:---|:-------|:-------------|:---|:-------------------------|:------------------|
-|Ballynahinch ALC - Assumption Grammar|Ballynahinch|ALC Format - 3 x STEM zones + W5 show|200|4/16/2013|3|[http://networking.stemnet.org.uk/ambassador-requests/i-want-be-ballynahinch-schools](http://networking.stemnet.org.uk/ambassador-requests/i-want-be-ballynahinch-schools)|
-|Ballynahinch ALC - St Colman's HS|Ballynahinch|ALC Format - 3 x STEM zones + W5 show|200|4/17/2013|3|[http://networking.stemnet.org.uk/ambassador-requests/i-want-be-ballynahinch-schools](http://networking.stemnet.org.uk/ambassador-requests/i-want-be-ballynahinch-schools)|
+|------|----|--------|--------------|----|--------------------------|-------------------|
+|Ballynahinch ALC - Assumption Grammar|Ballynahinch|ALC Format - 3 x STEM zones + W5 show|200|4/16/2013|3|<http://networking.stemnet.org.uk/ambassador-requests/i-want-be-ballynahinch-schools>|
+|Ballynahinch ALC - St Colman's HS|Ballynahinch|ALC Format - 3 x STEM zones + W5 show|200|4/17/2013|3|<http://networking.stemnet.org.uk/ambassador-requests/i-want-be-ballynahinch-schools>|
 |St Mary's - Claire Melaugh|Derry|ICT Careers Talks|150|4/30/2013|1||
-|St Paul's HS - Bridget McConville|Bessbrook|Breakfast Biscuit Experiment|25|30/04/2013|1|[http://networking.stemnet.org.uk/ambassador-requests/breakfast-biscuit-nutrition-experiment-st-pauls-high-school-bessbrook](http://networking.stemnet.org.uk/ambassador-requests/breakfast-biscuit-nutrition-experiment-st-pauls-high-school-bessbrook)|
-|St Joseph's College - Joanne McDonnell|Belfast|Host 6 x 30 min STEM demo & Q/A|90|08/05/2013|3|[http://networking.stemnet.org.uk/ambassador-requests/stem-careers-workshops-st-josephs-college-belfast](http://networking.stemnet.org.uk/ambassador-requests/stem-careers-workshops-st-josephs-college-belfast)|
-|Tandragee Junior High School|Tandragee|3 x STEM Career Workshops (Year 10)|80|09/05/2013|3|[http://networking.stemnet.org.uk/ambassador-requests/stem-careers-workshops-tandragee-junior-high-tandragee](http://networking.stemnet.org.uk/ambassador-requests/stem-careers-workshops-tandragee-junior-high-tandragee)|
-|Belfast High, Hazelwood & Dominican - Charlotte Weir|Belfast|App Judges|450|10/05/2013|5|[http://networking.stemnet.org.uk/ambassador-requests/day-life-careers-talks-st-louises-belfast-0](http://networking.stemnet.org.uk/ambassador-requests/day-life-careers-talks-st-louises-belfast-0)|
+|St Paul's HS - Bridget McConville|Bessbrook|Breakfast Biscuit Experiment|25|30/04/2013|1|<http://networking.stemnet.org.uk/ambassador-requests/breakfast-biscuit-nutrition-experiment-st-pauls-high-school-bessbrook>|
+|St Joseph's College - Joanne McDonnell|Belfast|Host 6 x 30 min STEM demo & Q/A|90|08/05/2013|3|<http://networking.stemnet.org.uk/ambassador-requests/stem-careers-workshops-st-josephs-college-belfast>|
+|Tandragee Junior High School|Tandragee|3 x STEM Career Workshops (Year 10)|80|09/05/2013|3|<http://networking.stemnet.org.uk/ambassador-requests/stem-careers-workshops-tandragee-junior-high-tandragee>|
+|Belfast High, Hazelwood & Dominican - Charlotte Weir|Belfast|App Judges|450|10/05/2013|5|<http://networking.stemnet.org.uk/ambassador-requests/day-life-careers-talks-st-louises-belfast-0>|
 |Foyle ALC Teacher Event|Derry|Teacher Speed Networking|160|27/05/2013|8||
 |St Dominics|Belfast|STEM Careers Speed Networking|200|TBC|4||
-|Belfast High - Charlotte Weir|Belfast|STEM Speed Networking + 2 Demos|90|06/06/2013|9|[http://networking.stemnet.org.uk/ambassador-requests/day-life-careers-talks-st-louises-belfast-0](http://networking.stemnet.org.uk/ambassador-requests/day-life-careers-talks-st-louises-belfast-0)|
+|Belfast High - Charlotte Weir|Belfast|STEM Speed Networking + 2 Demos|90|06/06/2013|9|<http://networking.stemnet.org.uk/ambassador-requests/day-life-careers-talks-st-louises-belfast-0>|
 |Loreto Grammar - Caitriona Turbitt|Omagh|Forensics Seminar|63|14/06/2013|1||

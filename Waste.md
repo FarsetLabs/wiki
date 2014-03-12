@@ -1,13 +1,5 @@
 The space has a rudimentary sorting system for waste to help both keep the bills down, but more importantly, avoid landfilling recyclables. When you're in the building and binning waste, please remove all the recyclables first.
 
-Contents
---------
-
--   [1 Landfill Waste](#Landfill_Waste)
-    -   [1.1 Bin Collections](#Bin_Collections)
--   [2 Recycling](#Recycling)
-    -   [2.1 Recycling Glass](#Recycling_Glass)
-
 Landfill Waste
 ==============
 

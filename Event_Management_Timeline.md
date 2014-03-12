@@ -1,19 +1,3 @@
-Contents
---------
-
--   [1 Purpose](#Purpose)
--   [2 PR Timeline](#PR_Timeline)
-    -   [2.1 T-1 mth](#T-1_mth)
-    -   [2.2 T-3 wks](#T-3_wks)
-    -   [2.3 T-2 wks](#T-2_wks)
-    -   [2.4 T-1 wk](#T-1_wk)
-    -   [2.5 T-3 days](#T-3_days)
-    -   [2.6 T-2 days](#T-2_days)
-    -   [2.7 T-6 hours](#T-6_hours)
-    -   [2.8 T-0](#T-0)
-    -   [2.9 T+20 mins](#T.2B20_mins)
-    -   [2.10 T+1 day](#T.2B1_day)
-
 Purpose
 =======
 
@@ -47,7 +31,7 @@ Now the push; The date has been settled for a week now, if anyone wants to chang
 
 Depending on how interesting the event is, if you submit a draft blog-post to the directors, they'll be able to proof and post it through the main blog. This is then automatically shared with the main twitter and facebook presences of the space **but is not automatically put on the Farset Labs Calendar** (see above)
 
-Once the post is out, post the event (with each event posting linking back to the original blog post) to the following sites (If it's an internal, member-driven event, don't bother; we don't want any riff raff :P)
+Once the post is out, post the event (with each event posting linking back to the original blog post) to the following sites (If it's an internal, member-driven event, don't bother; we don't want any riff raff :P)
 
 -   [Eventbrite](http://www.eventbrite.co.uk/org/2238451237)
 -   [Digital Circle](http://www.digitalcircle.org/events/)

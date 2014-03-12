@@ -7,4 +7,6 @@ Waking sleepers
 
 People who've been asleep for more than 15 minutes are likely to be grumpy when woken. If you want to be nice (you have no obligation to), avoid antagonising them and get them a cup of tea or water. You might also like to ask how they're planning to get home: at least they will have a chance to explain why they've ended up staying so late.
 
-It's important for us to keep track of repeat offenders, so please let the list, [Discourse](http://discourse.farsetlabs.org.uk), or the [directors](http://wiki.farsetlabs.org.uk/Organisation "Organisation") know if you think it's unlikely to be a one-off.
+It's important for us to keep track of repeat offenders, so please let the list, [Discourse](http://discourse.farsetlabs.org.uk), or the [directors](Organisation "wikilink") know if you think it's unlikely to be a one-off.
+
+<Category:Policies> <Category:Infrastructure>

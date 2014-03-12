@@ -4,14 +4,6 @@ Press wishing to contact Farset Labs are welcome to do so via the usual ways of 
 
 (To cheat and convert from HTML to MediaWiki Format, use [this](http://toolserver.org/~diberri/cgi-bin/html2wiki/index.cgi))
 
-Contents
---------
-
--   [1 Farset Labs in the Press](#Farset_Labs_in_the_Press)
-    -   [1.1 2012](#2012)
-    -   [1.2 2013](#2013)
--   [2 Press Pack](#Press_Pack)
-
 Farset Labs in the Press
 ========================
 
@@ -48,7 +40,7 @@ Farset Labs in the Press
 -   7/2/13: [Tech Britain Coverage](http://techbritain.com/videos/watch/43) – TechBritain
 -   9/2/13: [Raspberry Pi Jam & Coder Dojo Belfast ](http://coderkidz.com/2013/02/raspberry-pi-jam-coder-dojo-belfast/)- CoderKidz
 -   24/2/13: [Belfast Gamecraft Results](http://dublingamecraft.com/2013/02/24/belfat-gamecraft-winners/) – Dublin Gamecraft
--   18/3/13: [BMC Makes it Happen at CoderDojo](http://syncni.com/news/2/1574/belfast-metropolitan-college-makes-it-happen-with-coderdojo-summit/tab/1356#.UW_zakmDg9d) – SyncNI
+-   18/3/13: [<http://syncni.com/news/2/1574/belfast-metropolitan-college-makes-it-happen-with-coderdojo-summit/tab/1356>\#.UW\_zakmDg9d BMC Makes it Happen at CoderDojo] – SyncNI
 -   15/5/13: [Innovation in Northern Ireland: Nesta in Belfast](http://www.nesta.org.uk/events/nesta_road_shows/assets/events/innovation_in_northern_ireland_nesta_in_belfast) – Nesta
 -   5/9/13: [Experimenting with ICT in Belfast](http://www.agendani.com/experimenting-with-ict-in-belfast/)- AgendaNI
 

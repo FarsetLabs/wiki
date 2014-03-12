@@ -1,15 +1,3 @@
-Contents
---------
-
--   [1 Introduction to GGJ](#Introduction_to_GGJ)
-    -   [1.1 What is a Game Jam?](#What_is_a_Game_Jam.3F)
-    -   [1.2 What is the Global Game Jam?](#What_is_the_Global_Game_Jam.3F)
-    -   [1.3 Do I need to come to GGJ with a team already formed?](#Do_I_need_to_come_to_GGJ_with_a_team_already_formed.3F)
-    -   [1.4 Do I need special skills to participate in the GGJ?](#Do_I_need_special_skills_to_participate_in_the_GGJ.3F)
-    -   [1.5 Is the GGJ only for professionals?](#Is_the_GGJ_only_for_professionals.3F)
-    -   [1.6 I've registered on the Eventbrite for Farset Labs, do I need to register on the global site?](#I.27ve_registered_on_the_Eventbrite_for_Farset_Labs.2C_do_I_need_to_register_on_the_global_site.3F)
--   [2 Jams](#Jams)
-
 Introduction to GGJ
 -------------------
 
@@ -40,4 +28,4 @@ Yes. This record is used to adjudicate the Global record-setting status, where a
 Jams
 ====
 
--   [GGJ13](http://wiki.farsetlabs.org.uk/GGJ13 "GGJ13")
+-   [GGJ13](GGJ13 "wikilink")

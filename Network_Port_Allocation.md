@@ -1,15 +1,3 @@
-Contents
---------
-
--   [1 Switches](#Switches)
-    -   [1.1 Core Switch (Linksys SRW2024)](#Core_Switch_.28Linksys_SRW2024.29)
-    -   [1.2 Co-working Switch (Cisco Catalyst 2960)](#Co-working_Switch_.28Cisco_Catalyst_2960.29)
-    -   [1.3 VoIP PoE Switch (Cisco SF302-08P)](#VoIP_PoE_Switch_.28Cisco_SF302-08P.29)
--   [2 Patch Panels](#Patch_Panels)
-    -   [2.1 Panel 1](#Panel_1)
-    -   [2.2 Panel 2](#Panel_2)
-    -   [2.3 Panel 3 (Cat6 panel)](#Panel_3_.28Cat6_panel.29)
-
 Switches
 ========
 
@@ -17,7 +5,7 @@ Core Switch (Linksys SRW2024)
 -----------------------------
 
 |Port|Assigned Use|VLAN|Notes|
-|:---|:-----------|:---|:----|
+|----|------------|----|-----|
 |1|Co-work area Cisco Switch|\*T|Trunk Port, LAG1 (LACP)|
 |2|Co-work area Cisco Switch|\*T|Trunk Port, LAG1 (LACP)|
 |3|VoIP PoE Cisco Switch|\*T|Trunk Port, LAG2 (LACP)|
@@ -47,7 +35,7 @@ Co-working Switch (Cisco Catalyst 2960)
 ---------------------------------------
 
 |Port|Assigned Use|VLAN|Notes|
-|:---|:-----------|:---|:----|
+|----|------------|----|-----|
 |1|Member Access Port|3U||
 |2|Member Access Port|3U||
 |3|Member Access Port|3U||
@@ -79,7 +67,7 @@ VoIP PoE Switch (Cisco SF302-08P)
 ---------------------------------
 
 |Port|Assigned Use|VLAN|Notes|
-|:---|:-----------|:---|:----|
+|----|------------|----|-----|
 |1||5U||
 |2||5U||
 |3||5U||
@@ -98,7 +86,7 @@ Panel 1
 -------
 
 |Ports|Location|
-|:----|:-------|
+|-----|--------|
 |01-10|Cowrk North/back wall|
 |11-12|Reception wall|
 |13-14|Lounge|
@@ -110,12 +98,12 @@ Panel 2
 -------
 
 |Ports|Location|
-|:----|:-------|
+|-----|--------|
 |01-04|Workshop|
 
 Panel 3 (Cat6 panel)
 --------------------
 
 |Ports|Location|
-|:----|:-------|
+|-----|--------|
 |01|Tibus line|

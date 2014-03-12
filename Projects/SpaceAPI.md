@@ -1,11 +1,3 @@
-Contents
---------
-
--   [1 Background](#Background)
-    -   [1.1 Justification](#Justification)
--   [2 Implementation](#Implementation)
--   [3 Notes](#Notes)
-
 Background
 ==========
 
@@ -37,6 +29,7 @@ Implementation
 
 The Farset Labs Space API is built on top of the Flask micro-framework, and using a customised version of the authdigest plugin to provide for persistent file-based authentication database.
 
+  
 [GitHub](http://github.com/FarsetLabs/SpaceAPI)
 
 Not only have we produced the api service (running on [farbot.unit1.farsetlabs.org.uk](http://unit1.farsetlabs.org.uk/spaceapi/)), but there is also a simple python client libary that can be used to play with the service from anywhere in the world.

@@ -1,13 +1,3 @@
-Contents
---------
-
--   [1 When](#When)
--   [2 Where](#Where)
--   [3 So...food?](#So...food.3F)
--   [4 What kind of films are we going for?](#What_kind_of_films_are_we_going_for.3F)
-    -   [4.1 Film suggestions:](#Film_suggestions:)
--   [5 Before you go, what's with the acronym?](#Before_you_go.2C_what.27s_with_the_acronym.3F)
-
 When
 ----
 
@@ -34,6 +24,7 @@ Drop in suggestions below or talk to David:
 
 ### Film suggestions:
 
+  
 Hackers - Well, duh. Inaccurate as hell, but everyone wishes they could attend Cyberdelia. And have Angelina Jolie as a girlfriend.
 
 Mission Impossible (pick a number) - Generally solid thrillers. And the tech in the first one brings back memories.

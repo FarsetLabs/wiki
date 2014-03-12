@@ -1,7 +1,7 @@
 Individual Memberships
 ======================
 
--   [Membership/Payments & Fees](http://wiki.farsetlabs.org.uk/Membership/Payments_%26_Fees "Membership/Payments & Fees")
+-   [Membership/Payments & Fees](Membership/Payments & Fees "wikilink")
 
 Corporate Memberships
 =====================

@@ -5,13 +5,7 @@ Powering this thing is as simple as making a [potential divider](http://en.wikip
 Arduino Implementation
 ======================
 
-[![](/w/images/thumb/f/fd/Vumeter_rationalfit.png/200px-Vumeter_rationalfit.png)](http://wiki.farsetlabs.org.uk/File:Vumeter_rationalfit.png)
-
-[![](/w/skins/common/images/magnify-clip.png)](http://wiki.farsetlabs.org.uk/File:Vumeter_rationalfit.png "Enlarge")
-
-Mapping between the Arduino analogue out and the numbers on the VU meter.
-
-If one wishes to use this in conjunction with something like the Arduino, which has a maximum of 5 V on the analogue output, you will need to pair the meter with a resistor of roughly 16 kΩ.
+![Mapping between the Arduino analogue out and the numbers on the VU meter.](Vumeter_rationalfit.png "fig:Mapping between the Arduino analogue out and the numbers on the VU meter.")If one wishes to use this in conjunction with something like the Arduino, which has a maximum of 5 V on the analogue output, you will need to pair the meter with a resistor of roughly 16 kΩ.
 
 While the meter has numbers from -20 to +5, the analogue output runs from 0 to 255 and the mapping between these two is of course non-linear as can be seen in the lovely figure to the left.
 
@@ -20,25 +14,25 @@ Maths
 
 The [rational function model](http://en.wikipedia.org/wiki/Polynomial_and_rational_function_modeling#Rational_function_models) for this mapping is as follows.
 
-\<math\> y = \\frac{1107x + 20860} {x\^{2} - 19.91x + 190.9} \</math\>
+\(y = \frac{1107x + 20860} {x^{2} - 19.91x + 190.9}\)
 
 Arduino Code
 ------------
 
 Use this to get an analogue out for whatever arbitrary value between -20 and 5 you specify.
 
-``` {.de1}
+``` {.C}
     int vuMapping(float value){
         float p1 = 1107;
         float p2 = 20860;
         float q1 = -19.91;
         float q2 = 190.9;
         pwmValue = (int)( (p1*value + p2) / (value*value + q1*value + q2) );
- 
+    
         if (pwmValue < 0){
             pwmValue = 0;
         }
- 
+    
         return(pwmValue);
     }
 ```

@@ -1,4 +1,1 @@
-Find your image file:
-
--   [Raspbian, RISC, Arch](http://www.raspberrypi.org/downloads) - Default Images
--   [Occidentalis](http://learn.adafruit.com/adafruit-raspberry-pi-educational-linux-distro/occidentalis-v0-dot-2) from AdaFruit Industries - Customised for electronics hacking.
+1.  REDIRECT [Resources/Raspberry Pi/Idiots Guide to putting an Image on your Pi](Resources/Raspberry Pi/Idiots Guide to putting an Image on your Pi "wikilink")

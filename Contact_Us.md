@@ -6,17 +6,17 @@ Physical Address
 For sending letters or parcels to Farset Labs, please use only the address below:
 
 Farset Labs
- Unit 1 Weavers Court
- Linfield Road
- Belfast
- BT12 5GH
+Unit 1 Weavers Court
+Linfield Road
+Belfast
+BT12 5GH
 
 Email
 -----
 
 The preferred method of contact is via email.
 
-||
+|---|---|
 |**admin@farsetlabs.org.uk**|For all other enquiries|
 |**events@farsetlabs.org.uk**|For event bookings|
 |**facilities@services.farsetlabs.org.uk**|For facilities|

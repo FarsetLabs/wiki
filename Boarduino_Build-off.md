@@ -1,13 +1,3 @@
-Contents
---------
-
--   [1 Gist](#Gist)
--   [2 Required](#Required)
--   [3 Funding Options](#Funding_Options)
-    -   [3.1 Self Fund](#Self_Fund)
-    -   [3.2 Sponsored Event?](#Sponsored_Event.3F)
--   [4 Organisation](#Organisation)
-
 Gist
 ====
 
