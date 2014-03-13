@@ -3,12 +3,6 @@ Stick you're space-hacking ideas here, and remember, don't suggest without volun
 What Needs Done, and Who Can Do It
 ==================================
 
-Please use this format to contribute
-
-    ==Area of the space==
-    ===Idea===
-    *Who can Help
-
 Whole building
 --------------
 

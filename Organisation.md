@@ -23,7 +23,8 @@ Various Legislation etc
 Vital Stats
 ===========
 
-|---|---|
+|Stat|Value|
+|----|-----|
 |Opening Date|06/04/12|
 |Company Name|FARSET LABS|
 |Company Number|NI611278|

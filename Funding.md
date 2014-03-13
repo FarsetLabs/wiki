@@ -75,5 +75,5 @@ At year end 2012 (April '13), Farset Lab's outgoings breakdown was approximately
 |Overheads|Rent|36%|
 ||Service Charge|24%|
 ||Utilities|9%|
-|colspan = "2" | Exceptional|24%|
-|Event Expenses|7%|
+|Exceptional||24%|
+|Event Expenses||7%|

@@ -16,7 +16,8 @@ Email
 
 The preferred method of contact is via email.
 
-|---|---|
+|Email address|Purpose|
+|-------------|-------|
 |**admin@farsetlabs.org.uk**|For all other enquiries|
 |**events@farsetlabs.org.uk**|For event bookings|
 |**facilities@services.farsetlabs.org.uk**|For facilities|

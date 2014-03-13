@@ -16,7 +16,7 @@ Intro to Programming Concepts
 -   [Scratch](http://scratch.mit.edu/)
 -   [HacketyHack](http://hackety.com/) - Ruby
 -   [Alice](http://www.alice.org/index.php)
--   [<http://www.codecademy.com/>#!/exercises/0 Code Academy] - Multiple languages
+-   [Code Academy](http://www.codecademy.com/#!/exercises/0) - Multiple languages
 
 Game Programming
 ----------------

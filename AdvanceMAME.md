@@ -5,7 +5,15 @@ Assumes you're starting for an updated [Raspbian Wheezy](http://www.raspberrypi.
 
 Simple steps adapted from [here](http://blog.sheasilverman.com/2012/11/better-advancemame-debs-with-sound/) with the addition of some experience...
 
-`$ cd ; mkdir src ; cd src ; wget <http://sheasilverman.com/rpi/raspbian/debs/advancemame-raspberrypi_1-1_armhf.deb> ; sudo dpkg -i advancemame-raspberrypi_1-1_armhf.deb`  
+```sh
+$ cd
+$ mkdir src
+$ cd src
+$ wget "http://sheasilverman.com/rpi/raspbian/debs/advancemame-raspberrypi_1-1_armhf.deb"
+$ sudo dpkg -i advancemame-raspberrypi_1-1_armhf.deb
+
+```
+
 These commands take you to your home directory (/home/pi), create a directory called src (short for source) to keep things tidy, and to download the installation package (the .deb section) for Shea's customised AdvanceMAME setup, and then tells the pi to install it. The 'sudo' bit is the computer equivalent of saying 'please'... kinda...
 
 `$ sudo usermod -a pi -G video`  

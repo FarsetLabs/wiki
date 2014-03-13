@@ -4,15 +4,10 @@ Members are welcome to have items delivered to Farset Labs for their projects if
 
 When delivering to Farset Labs, please make sure you use the full address:
 
-**Farset Labs,**
-
-'''Unit 1, '''
-
-**Weavers Court,**
-
-**Belfast,**
-
-**BT12 5GH**
+**Farset Labs**  
+**Unit 1 Weavers Court**  
+**Belfast**  
+**BT12 5GH**  
 
 Prefixing your name to the above address will assure your post is not opened by others in the space. If you leave your post for more than a week, it may be opened or returned to sender.
 

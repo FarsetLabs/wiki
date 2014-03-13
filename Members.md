@@ -1,8 +1,8 @@
 A non exhaustive list of members
 For the sake of your inbox, obfuscate your email addy .. :)
 
-|---|---|---|---|---|
 |Name|AKA|email|website|skills|
+|----|---|-----|-------|------|
 |Adam Corry|||||
 |Ahmet Kalay||||
 |Alan Hook|||||

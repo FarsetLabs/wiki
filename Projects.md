@@ -13,10 +13,10 @@ Proposed
 -   [ HAM Infrastructure](Projects/HAM_Infrastructure.md "wikilink")
 -   [ Teleconference Suite](Projects/Teleconference_Suite.md "wikilink")
 -   [ Karma Board](Projects/Karma_Board.md "wikilink")
--   [Electricity Monitoring]
+-   Electricity Monitoring
 
 Completed/Closed
 ================
 
--   [[Projects/EventCam | EventCam]
--   [[Projects/CCTV | CCTV]
+-   [ EventCam](Projects/EventCam "wikilink")
+-   [ CCTV](Projects/CCTV "wikilink")

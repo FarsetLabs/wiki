@@ -3,7 +3,8 @@ External Network
 
 Tibus Connection  
 
-|---|---|
+|Parameter|Description|
+|---------|-----------|
 |Network|89.185.154.120 255.255.255.248|
 |Default Gateway|89.185.154.121|
 |Usable IP addresses|89.185.154.122 - 89.185.154.126|

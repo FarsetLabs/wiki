@@ -5,7 +5,9 @@ Powering this thing is as simple as making a [potential divider](http://en.wikip
 Arduino Implementation
 ======================
 
-![Mapping between the Arduino analogue out and the numbers on the VU meter.](Vumeter_rationalfit.png "fig:Mapping between the Arduino analogue out and the numbers on the VU meter.")If one wishes to use this in conjunction with something like the Arduino, which has a maximum of 5 V on the analogue output, you will need to pair the meter with a resistor of roughly 16 kΩ.
+![Mapping between the Arduino analogue out and the numbers on the VU meter.](Vumeter_rationalfit.png "fig:Mapping between the Arduino analogue out and the numbers on the VU meter.")
+
+If one wishes to use this in conjunction with something like the Arduino, which has a maximum of 5 V on the analogue output, you will need to pair the meter with a resistor of roughly 16 kΩ.
 
 While the meter has numbers from -20 to +5, the analogue output runs from 0 to 255 and the mapping between these two is of course non-linear as can be seen in the lovely figure to the left.
 

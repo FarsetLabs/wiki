@@ -1,12 +1,6 @@
-__NOTOC__ __NOEDITSECTION__
+![A busy night in [The Space](The_Space.md "wikilink"), with everybody hacking away at the rear of the coworking space.](Rear_of_coworking_space.jpg "fig:A busy night in The Space, with everybody hacking away at the rear of the coworking space.")
 
-|---|
-|<center>
-<span class="plainlinks">**Farset Labs is a charitable, not-for-profit <span class="plainlinks">[hackerspace](http://i.imgur.com/wn0PL.jpg)</span> in <span class="plainlinks">[Belfast, Northern Ireland](http://goo.gl/maps/99bp)</span>: a community-run workshop where people come to share tools and knowledge.**</span>
-
-</center>|
-
-![A busy night in [The Space](The_Space.md "wikilink"), with everybody hacking away at the rear of the coworking space.](Rear_of_coworking_space.jpg "fig:A busy night in The Space, with everybody hacking away at the rear of the coworking space.") Farset Labs is a community project for technological people in Northern Ireland; a place for like-minded geeks to come together in our central space, exercise their creative muscles and develop their crazy projects. However niche or specialist your talents Farset Labs offers a hub for everyone and everything. We're also non-profit, and a registered charity, so all the money our generous members and supporters inject goes straight into our rent, our utilities, and shiny new equipment.
+Farset Labs is a community project for technological people in Northern Ireland; a place for like-minded geeks to come together in our central space, exercise their creative muscles and develop their crazy projects. However niche or specialist your talents Farset Labs offers a hub for everyone and everything. We're also non-profit, and a registered charity, so all the money our generous members and supporters inject goes straight into our rent, our utilities, and shiny new equipment.
 
 Get involved
 ============
