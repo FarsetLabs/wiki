@@ -12,4 +12,4 @@ Planned Series
 So you want to be a hacker?
 ---------------------------
 
-CO [ Stealthii](User:Stealthii "wikilink")
+CO [ Stealthii](User:Stealthii.md "wikilink")

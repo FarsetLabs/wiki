@@ -9,7 +9,7 @@ We host a Dojo that is run on the first and third Thursday of the month (mostly)
 
 -   [Eventbrite Registration Page](http://fsl-dojo.eventbrite.com) - Also is the definitive guide to which dates are running
 
-We also maintain a [Farset Guide to Programming Guides](Resources/Farset Guide of Programming Guides "wikilink")' aimed at new coders, both young and old!
+We also maintain a [Farset Guide to Programming Guides](Resources/Farset_Guide_of_Programming_Guides.md "wikilink")' aimed at new coders, both young and old!
 
 We also know of the following NI based Dojo's that are in dire need of one-off or regular mentors
 
@@ -35,7 +35,7 @@ For more information about Coder Dojo, check out the [CoderDojo global webpage](
 Community Engagements
 =====================
 
--   [Third Sector Reablement Programme](Third Sector Reablement Programme "wikilink")
+-   [Third Sector Reablement Programme](Third_Sector_Reablement_Programme.md "wikilink")
 
 Current BringITOn Events
 ========================

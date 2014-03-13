@@ -1,7 +1,7 @@
--   [Electric & Heating Systems](/Electric & Heating Systems "wikilink")
--   [Infrastructure](/Infrastructure "wikilink")
+-   [Electric & Heating Systems](The_Space/Electric_&_Heating_Systems.md "wikilink")
+-   [Infrastructure](The_Space/Infrastructure.md "wikilink")
 
-Farset Labs is located in Unit 1, [Weavers Court](http://www.weaverscourt.com/) Business Park, near Belfast City Centre. [http://g.co/maps/34gn8 Map](http://g.co/maps/34gn8 Map "wikilink")
+Farset Labs is located in Unit 1, [Weavers Court](http://www.weaverscourt.com/) Business Park, near Belfast City Centre. [Map](http://g.co/maps/34gn8 "wikilink")
 
 There is a phone at reception, you can get it on 08458694619.
 
@@ -13,7 +13,7 @@ The Lounge is currently a work in progress, with an extensive entertainment syst
 The Hot-Desking Area
 ====================
 
-![A busy night in [The Space](The Space "wikilink"), everybody hacking away.](IMG 1953.JPG‎ "fig:A busy night in The Space, everybody hacking away.") The Hot-Desking Area is currently the main hub of Unit 1. The entrance leads into the Hot-Desking area, The Event Space is accesible from here, as well as The Lounge, The Kitchen and The Toilets.
+![A busy night in [The Space](The_Space.md "wikilink"), everybody hacking away.](IMG 1953.JPG‎ "fig:A busy night in The Space, everybody hacking away.") The Hot-Desking Area is currently the main hub of Unit 1. The entrance leads into the Hot-Desking area, The Event Space is accesible from here, as well as The Lounge, The Kitchen and The Toilets.
 
 Currently within the area there are nine spaces available to be used as hot desks, each with power points and networking points. The desks are large and can be easily used by all members to perform any work they wish to do the day they come to the space.
 

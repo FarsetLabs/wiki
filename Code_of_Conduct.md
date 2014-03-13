@@ -1,4 +1,4 @@
-Membership of Farset Labs is subject to compliance to the Code of Conduct for Members, detailed below and available on request in electronic and paper form. The [Code of Conduct/Full Text](Code of Conduct/Full Text "wikilink") is the detailed version of the document below.
+Membership of Farset Labs is subject to compliance to the Code of Conduct for Members, detailed below and available on request in electronic and paper form. The [Code of Conduct/Full Text](Code_of_Conduct/Full_Text.md "wikilink") is the detailed version of the document below.
 
 Code of Conduct for Members
 ===========================

@@ -5,7 +5,7 @@ The Short Answer
 
 By default, Farset Labs operates as a 18+ space, with exceptions made for parents with children and 16-17 year olds before 8pm, as long as there are at least two members in the space with them and they are not left unattended. Members are not obligated to chaperone children around the space.
 
-Basically, general common sense rules for mentors or anyone attending an event that includes under 18's ([CoderDojo](Outreach_Projects#CoderDojo "wikilink"))
+Basically, general common sense rules for mentors or anyone attending an event that includes under 18's ([CoderDojo](Outreach_Projects.md#CoderDojo "wikilink"))
 
 -   0. Never be alone with a child
 -   1. If you see someone alone with a child, go there.

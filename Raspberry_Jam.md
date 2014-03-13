@@ -16,12 +16,12 @@ Open season from the community about whatever weird and wonderful projects they'
 On-demand hack-time  
 We always try to make sure that there are a few saavy floating helpers from the Farset Community who kindly give even more of their time than usual to help out anyone who's having problems or whats some more in-depth help (These are often very congested so please don't be annoyed if we don't get to you immediately! We try our best!)
 
-[ Resources for the Raspberry Pi](Resources/Raspberry Pi "wikilink")
+[ Resources for the Raspberry Pi](Resources/Raspberry_Pi.md "wikilink")
 
 Upcoming
 ========
 
--   [RJam Feb 13](RJam Feb 13 "wikilink")
+-   [RJam Feb 13](RJam_Feb_13.md "wikilink")
 
 Past
 ====

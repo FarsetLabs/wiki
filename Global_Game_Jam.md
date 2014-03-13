@@ -28,4 +28,4 @@ Yes. This record is used to adjudicate the Global record-setting status, where a
 Jams
 ====
 
--   [GGJ13](GGJ13 "wikilink")
+-   [GGJ13](GGJ13.md "wikilink")

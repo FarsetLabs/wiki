@@ -1,1 +1,1 @@
-1.  REDIRECT [Payments & Fees](Payments & Fees "wikilink")
+1.  REDIRECT [Payments & Fees](Payments_&_Fees.md "wikilink")

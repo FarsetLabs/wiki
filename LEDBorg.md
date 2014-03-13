@@ -1,1 +1,1 @@
-1.  REDIRECT [Resources/Raspberry Pi/LEDBorg](Resources/Raspberry Pi/LEDBorg "wikilink")
+1.  REDIRECT [Resources/Raspberry Pi/LEDBorg](Resources/Raspberry_Pi/LEDBorg.md "wikilink")

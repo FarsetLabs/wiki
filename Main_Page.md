@@ -6,16 +6,16 @@ __NOTOC__ __NOEDITSECTION__
 
 </center>|
 
-![A busy night in [The Space](The Space "wikilink"), with everybody hacking away at the rear of the coworking space.](Rear_of_coworking_space.jpg "fig:A busy night in The Space, with everybody hacking away at the rear of the coworking space.") Farset Labs is a community project for technological people in Northern Ireland; a place for like-minded geeks to come together in our central space, exercise their creative muscles and develop their crazy projects. However niche or specialist your talents Farset Labs offers a hub for everyone and everything. We're also non-profit, and a registered charity, so all the money our generous members and supporters inject goes straight into our rent, our utilities, and shiny new equipment.
+![A busy night in [The Space](The_Space.md "wikilink"), with everybody hacking away at the rear of the coworking space.](Rear_of_coworking_space.jpg "fig:A busy night in The Space, with everybody hacking away at the rear of the coworking space.") Farset Labs is a community project for technological people in Northern Ireland; a place for like-minded geeks to come together in our central space, exercise their creative muscles and develop their crazy projects. However niche or specialist your talents Farset Labs offers a hub for everyone and everything. We're also non-profit, and a registered charity, so all the money our generous members and supporters inject goes straight into our rent, our utilities, and shiny new equipment.
 
 Get involved
 ============
 
-If you fancy getting involved in Farset Labs, feel free to visit [The Space](The Space "wikilink") at any time and see what we have to offer you. We're still building up our equipment and facilities, and the building itself is undergoing constant renovation, so any time you visit, we'll probably be slightly different than before.
+If you fancy getting involved in Farset Labs, feel free to visit [The Space](The_Space.md "wikilink") at any time and see what we have to offer you. We're still building up our equipment and facilities, and the building itself is undergoing constant renovation, so any time you visit, we'll probably be slightly different than before.
 
-We operate on a [Membership](Membership "wikilink") model for funding instead of charging for use of individual facilities or events. Members of Farset Labs have access to every event and piece of equipment offered. For privately hosted classes etc, members will have free, or for high cost events, highly-subsidised entry.
+We operate on a [Membership](Membership.md "wikilink") model for funding instead of charging for use of individual facilities or events. Members of Farset Labs have access to every event and piece of equipment offered. For privately hosted classes etc, members will have free, or for high cost events, highly-subsidised entry.
 
-If you would like to get involved in running the space, or if you have an idea, suggestion, comment or complaint, please do not hesitate to [Contact Us](Contact Us "wikilink"). Monthly [Town Hall](Town Hall "wikilink") meetings are run to let members talk to management and bring up their suggestions or complaints, in personal or anonymous form.
+If you would like to get involved in running the space, or if you have an idea, suggestion, comment or complaint, please do not hesitate to [Contact Us](Contact_Us.md "wikilink"). Monthly [Town Hall](Town_Hall.md "wikilink") meetings are run to let members talk to management and bring up their suggestions or complaints, in personal or anonymous form.
 
 Get in touch
 ============
@@ -35,40 +35,40 @@ Farset Labs has an ever-growing web presence for different facilities. Below are
 Infrastructure & Tools
 ======================
 
--   [Consumer Hardware](Consumer Hardware "wikilink")
--   [Power](Power "wikilink")
--   [Tools Availiable](Tools Availiable "wikilink")
+-   [Consumer Hardware](Consumer_Hardware.md "wikilink")
+-   [Power](Power.md "wikilink")
+-   [Tools Availiable](Tools_Availiable.md "wikilink")
 
 Network
 -------
 
--   [Core Hardware & Networking](Core Hardware & Networking "wikilink")
--   [Network Port Allocation](Network Port Allocation "wikilink")
--   [Network Services](Network Services "wikilink")
+-   [Core Hardware & Networking](Core Hardware_&_Networking.md "wikilink")
+-   [Network Port Allocation](Network_Port_Allocation.md "wikilink")
+-   [Network Services](Network_Services.md "wikilink")
 
 Projects
 ========
 
--   [Projects](Projects "wikilink")
--   [Events](Events "wikilink")
--   [Resources](Resources "wikilink")
--   [Deliveries](Deliveries "wikilink")
--   [Useful Links](Useful Links "wikilink")
-    -   [Fabrication](Fabrication "wikilink")
-    -   [Research](Research "wikilink")
--   [Outreach Projects](Outreach Projects "wikilink")
+-   [Projects](Projects.md "wikilink")
+-   [Events](Events.md "wikilink")
+-   [Resources](Resources.md "wikilink")
+-   [Deliveries](Deliveries.md "wikilink")
+-   [Useful Links](Useful_Links.md "wikilink")
+    -   [Fabrication](Fabrication.md "wikilink")
+    -   [Research](Research.md "wikilink")
+-   [Outreach Projects](Outreach_Projects.md "wikilink")
 
 About Farset Labs
 =================
 
--   [Policies and Guides](Policies and Guides "wikilink")
--   [The Space](The Space "wikilink")
-    -   [Waste](Waste "wikilink")
--   [Membership](Membership "wikilink")
--   [Organisation](Organisation "wikilink")
--   [Press](Press "wikilink")
--   [Members](Members "wikilink")
--   [Funding](Funding "wikilink")
+-   [Policies and Guides](Policies_and_Guides.md "wikilink")
+-   [The Space](The_Space.md "wikilink")
+    -   [Waste](Waste.md "wikilink")
+-   [Membership](Membership.md "wikilink")
+-   [Organisation](Organisation.md "wikilink")
+-   [Press](Press.md "wikilink")
+-   [Members](Members.md "wikilink")
+-   [Funding](Funding.md "wikilink")
 
 Opening Hours
 -------------

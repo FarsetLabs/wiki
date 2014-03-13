@@ -1,1 +1,1 @@
-1.  REDIRECT [Bitcoin/Addresses](Bitcoin/Addresses "wikilink")
+1.  REDIRECT [Bitcoin/Addresses](Bitcoin/Addresses.md "wikilink")

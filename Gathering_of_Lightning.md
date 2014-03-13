@@ -33,5 +33,5 @@ Common [Lisp](http://xkcd.com/297/): We'll get meta-eval on you.
 
 [ZeroMQ](http://www.zeromq.org/): Sugary Sockets
 
-[Andrew Bolster](User:bolster "wikilink")  
-[The Secret Lecture](The Secret Lecture "wikilink"); What I'm sick of telling software engineering students
+[Andrew Bolster](User:bolster.md "wikilink")  
+[The Secret Lecture](The_Secret_Lecture.md "wikilink"); What I'm sick of telling software engineering students

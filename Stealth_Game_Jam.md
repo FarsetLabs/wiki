@@ -4,7 +4,7 @@ Quicklinks
 Stealth Game Jam
 ----------------
 
-As a warmup to the [Global Game Jam](Global Game Jam "wikilink") we have hope to bring you I small taste of jam, stealth flavoured jam.
+As a warmup to the [Global Game Jam](Global_Game_Jam.md "wikilink") we have hope to bring you I small taste of jam, stealth flavoured jam.
 
 ### What is it?
 

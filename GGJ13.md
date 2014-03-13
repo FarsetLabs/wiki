@@ -1,6 +1,6 @@
-Organiser: [Andrew Bolster](User:Bolster "wikilink")
+Organiser: [Andrew Bolster](User:Bolster.md "wikilink")
 
-General Info: [Global Game Jam](Global Game Jam "wikilink")
+General Info: [Global Game Jam](Global_Game_Jam.md "wikilink")
 
 Alternative Event in [Coleraine](http://globalgamejam.org/sites/2013/university-ulster-coleraine-campus) - **Students only**
 
@@ -193,7 +193,7 @@ Provisional!
 |Sat|0100|'Official' Close of day|Attendees are welcome (but advised against) to stay through the night.|
 |Sat|1600|'Day One' Seminar|Each team will present a short update of their progress and any trouble they've had (Mistakes are fine! Giving up is the only failure)|
 |Sat|1800|Movie Time: A Screening of 'Indie Game: The Movie'|An opportunity to chill out, get your head out of your code for a bit, and maybe bet some inspiration!|
-|Sat|2100|Open Help Desk|We'll try to round up a few 'experts' to answer as many questions as possible about any problems people are having (if you want to volunteer, let [Bolster](User:Bolster "wikilink") know!)|
+|Sat|2100|Open Help Desk|We'll try to round up a few 'experts' to answer as many questions as possible about any problems people are having (if you want to volunteer, let [Bolster](User:Bolster.md "wikilink") know!)|
 |Sun|1600|Time's Up!|Time to start uploading!|
 |Sun|1700|Closing Ceremony|One last presentation round to show off your successes and let everyone playtest, announcing the winner of the GitHub prize|
 |Sun|1800|Clean up and Sleep!|

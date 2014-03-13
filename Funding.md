@@ -29,7 +29,7 @@ If you go for one of our equipment/resource sponsoring programmes, you'll get ne
 
 Selecting one of our Event Sponsoring Programmes will allow you to reach out and get more face time with the community.
 
-Given the amount of [notoriety](Press "wikilink") Farset has attained in its short existence, now is the time to jump on and be part of one of the most news-worthy programmes in Northern Ireland today.
+Given the amount of [notoriety](Press.md "wikilink") Farset has attained in its short existence, now is the time to jump on and be part of one of the most news-worthy programmes in Northern Ireland today.
 
 Visibility
 ----------

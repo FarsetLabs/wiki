@@ -5,11 +5,11 @@ Aside from any legally/strategically sensitive discussions, no subject is off li
 Next Town Hall
 ==============
 
-[ Monday March 25th @ 1900](Town Hall/1303 "wikilink")
+[ Monday March 25th @ 1900](Town_Hall/1303.md "wikilink")
 
 Previous Town Halls
 ===================
 
-[ Monday February 16th @ 1500](Town Hall/1602 "wikilink")
+[ Monday February 16th @ 1500](Town_Hall/1602.md "wikilink")
 
-[ Template](Town Hall/Template "wikilink")
+[ Template](Town_Hall/Template.md "wikilink")
