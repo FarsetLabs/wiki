@@ -13,7 +13,7 @@ Tibus Connection
 
 Current Allocations:
 
--   .122 : General Network ([Farbox](Farbox.md "wikilink"))
+-   .122 : General Network ([Farbox](Farbox.md))
 -   .123 : Prototype Network
 -   .124 : Reserved (And Monitored!)
 -   .125 : Reserved (And Monitored!)
@@ -32,7 +32,7 @@ IP Plan
 |192.168.10.30-39|Storage|
 |192.168.10.40-49|Media Services|
 |192.168.10.50-59|CCTV/Alarm Services|
-|192.168.10.150-250|DHCP (Served By [Farbox](Farbox.md "wikilink"))|
+|192.168.10.150-250|DHCP (Served By [Farbox](Farbox.md))|
 
 Static Leases
 -------------

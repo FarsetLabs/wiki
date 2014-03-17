@@ -1,4 +1,5 @@
-Bitcoin Addresses:
+Bitcoin Addresses
+=================
 
 |Name|Address|
 |----|-------|

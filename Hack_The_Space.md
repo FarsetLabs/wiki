@@ -1,46 +1,46 @@
-Stick you're space-hacking ideas here, and remember, don't suggest without volunteering!
+Hack the Space
+==============
+
+Stick your space-hacking ideas here, and remember, don't suggest without 
+volunteering!
 
 What Needs Done, and Who Can Do It
-==================================
+----------------------------------
 
-Whole building
---------------
+### Whole building
 
-### Full clean and mop/hoover of floors
+#### Full clean and mop/hoover of floors
 
--   Anyone can presumably do this
+ - Anyone can presumably do this
 
-Kitchen
--------
+### Kitchen
 
-### Move kitchen equipment back in to kitchen
+#### Move kitchen equipment back in to kitchen
 
--   One or two people depending on strength
+ - One or two people depending on strength
 
-### Strip paint from radiator
+#### Strip paint from radiator
 
--   Anyone who is willing and wearing suitable clothing
+ - Anyone who is willing and wearing suitable clothing
 
-### Proper clean of countertops and equipment
+#### Proper clean of countertops and equipment
 
--   Anyone can do this
+ - Anyone can do this
 
-Coworking space
----------------
+### Coworking space
 
-### Paint the walls
+#### Paint the walls
 
--   Anyone can do basic painting
--   Preferably skilled/creative people for the logo and more interesting parts
+ - Anyone can do basic painting
+ - Preferably skilled/creative people for the logo and more interesting parts
 
-### Replace desks
+#### Replace desks
 
--   Anyone can help as long as there are enough people
+ - Anyone can help as long as there are enough people
 
-Event Space
------------
+### Event Space
 
-### Paint the walls
+#### Paint the walls
 
--   Anyone can do basic painting
--   Preferably skilled/creative people for the logo and more interesting parts
+ - Anyone can do basic painting
+ - Preferably skilled/creative people for the logo and more interesting parts

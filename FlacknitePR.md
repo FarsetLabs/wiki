@@ -1,24 +1,22 @@
 PR Contacts
-===========
+-----------
 
--   Claire Burgoyne (BBC)
--   Nichola Bates / Julie Collins (EmeraldValleyII)
+ - Claire Burgoyne (BBC)
+ - Nichola Bates / Julie Collins (EmeraldValleyII)
 
 Sponsors
-========
+--------
 
-Approached
-----------
+### Approached
 
--   Aepona (via Anaeko)
--   Phlok (Paul Graham)
--   VozMedia (Rob Parker)
--   CraftyDevil (Rich Dale)
--   SourceFire (Robert Preedy)
--   SAP (Ben Greene)
--   AirPOS (Marty Neill)
+ - Aepona (via Anaeko)
+ - Phlok (Paul Graham)
+ - VozMedia (Rob Parker)
+ - CraftyDevil (Rich Dale)
+ - SourceFire (Robert Preedy)
+ - SAP (Ben Greene)
+ - AirPOS (Marty Neill)
 
-Confirmed
----------
+### Confirmed
 
--   Redbull (Drinks) (Susie Dardis / Lana Condron)
+ - Redbull (Drinks) (Susie Dardis / Lana Condron)
