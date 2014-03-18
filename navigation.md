@@ -21,3 +21,10 @@
 
 [Blog](http://farsetlabs.org.uk/blog/)
 [Discourse](http://discourse.farsetlabs.org.uk/)
+
+
+[gimmick:theme (inverse: false)](yeti)
+
+[gimmick:ThemeChooser](Change theme)
+
+[gimmick:forkmeongithub](http://github.com/FarsetLabs/wiki/)
