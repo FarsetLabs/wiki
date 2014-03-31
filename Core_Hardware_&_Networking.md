@@ -41,3 +41,6 @@ Equipment Ownership Under Loan to Farset
  - 2 X ZyXel Managed Switches - Dan Porter (Loaned to Farset under the 60-day promise)
  - 2 X Linksys Wireless APs - Dan Porter
  - 1 X Asterisk Server - Conor Robinson (Hardware belongs to Farset, service built & run by Conor R)
+ - 2 X Linksys SRW2024 Switches - Chris Murray (Loaned to Farset under the 60-day promise)
+ - 1 X Dell Poweredge 2850 - Chris Murray (Loaned to Farset under the 60-day promise)
+ - 1 X Dell Poweredge 1850 - Chris Murray (Loaned to Farset under the 60-day promise)
