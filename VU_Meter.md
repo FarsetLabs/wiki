@@ -22,7 +22,7 @@ the lovely figure to the left.
 
 The [rational function model] for this mapping is as follows.
 
-(y = frac{1107x + 20860} {x^{2} - 19.91x + 190.9})
+$$y = \frac{1107x + 20860} {x^{2} - 19.91x + 190.9}$$
 
 ### Arduino Code
 
