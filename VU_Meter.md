@@ -1,3 +1,5 @@
+[gimmick: math]()
+
 An analogue needle for when style and charm are more important than accurate
 readings.
 
