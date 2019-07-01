@@ -42,7 +42,6 @@ For the sake of your inbox, obfuscate your email addy .. :)
 |Geoff McGimpsey|||||
 |Geoff Taylor|OpinionatedGeek||||
 |Glenn Davidson|panLoaf|glenn at blitter.co.uk||.Net, Java, Regex, HTML/CSS, App design, Web Services, Dealing with management, Events/PR. Good with a drill.|
-|Haydania-Capri DiTori|oscailt|oscailt at o-f.org.uk|[Personal Blog of Haydania-Capri "Oscailt" DiTori](http://blog.capri.pw)||
 |Jake Sloan|otaku/rooboy|otaku at takingthingsapart.org|[TakingThingsApart](http://www.takingthingsapart.org)|C/C++/ASM/Reverse Engineering/Disassembly/General Hackery.|
 |Joe Hicks|||||
 |Lyra McKee|||||
